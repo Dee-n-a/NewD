@@ -1,0 +1,2113 @@
+
+[ Jumat, 01 - 06 - 2018 | 06:29:28 ] 'contentMetadata' is an invalid keyword argument for this function
+[ Jumat, 01 - 06 - 2018 | 06:29:48 ] 'contentMetadata' is an invalid keyword argument for this function
+[ Jumat, 01 - 06 - 2018 | 06:31:42 ] 'contentMetadata' is an invalid keyword argument for this function
+[ Jumat, 01 - 06 - 2018 | 06:37:15 ] name 'url' is not defined
+[ Jumat, 01 - 06 - 2018 | 12:37:11 ] 'LINE' object has no attribute 'sendSettings'
+[ Jumat, 01 - 06 - 2018 | 16:04:57 ] sendMention() got an unexpected keyword argument 'contentMetadata'
+[ Jumat, 01 - 06 - 2018 | 16:11:45 ] sendMention() got an unexpected keyword argument 'contentMetadata'
+[ Jumat, 01 - 06 - 2018 | 16:12:06 ] sendMention() got an unexpected keyword argument 'contentMetadata'
+[ Jumat, 01 - 06 - 2018 | 16:18:31 ] sendMention() got an unexpected keyword argument 'contentMetadata'
+[ Jumat, 01 - 06 - 2018 | 16:19:26 ] sendMessage() got multiple values for argument 'contentMetadata'
+[ Jumat, 01 - 06 - 2018 | 16:52:00 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Jumat, 01 - 06 - 2018 | 16:54:15 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Jumat, 01 - 06 - 2018 | 16:55:34 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Jumat, 01 - 06 - 2018 | 17:15:40 ] name 'j' is not defined
+[ Jumat, 01 - 06 - 2018 | 17:21:59 ] name 'j' is not defined
+[ Jumat, 01 - 06 - 2018 | 17:34:50 ] Invalid mids
+[ Jumat, 01 - 06 - 2018 | 17:35:37 ] Upload image failure.
+[ Jumat, 01 - 06 - 2018 | 17:36:02 ] Upload image failure.
+[ Jumat, 01 - 06 - 2018 | 17:40:25 ] local variable 'sender' referenced before assignment
+[ Jumat, 01 - 06 - 2018 | 17:42:12 ] Upload image failure.
+[ Jumat, 01 - 06 - 2018 | 17:53:50 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Jumat, 01 - 06 - 2018 | 17:56:05 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Jumat, 01 - 06 - 2018 | 18:31:53 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Jumat, 01 - 06 - 2018 | 20:08:57 ] 'dict' object is not callable
+[ Jumat, 01 - 06 - 2018 | 20:11:28 ] 'contentMetadata' is an invalid keyword argument for this function
+[ Jumat, 01 - 06 - 2018 | 20:13:59 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Jumat, 01 - 06 - 2018 | 20:20:35 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Jumat, 01 - 06 - 2018 | 20:23:11 ] Upload image failure.
+[ Jumat, 01 - 06 - 2018 | 20:23:24 ] Upload image failure.
+[ Jumat, 01 - 06 - 2018 | 20:25:00 ] Upload image failure.
+[ Jumat, 01 - 06 - 2018 | 20:25:16 ] sendMention() got an unexpected keyword argument 'contentMetadata'
+[ Jumat, 01 - 06 - 2018 | 20:26:15 ] sendMention() got an unexpected keyword argument 'contentMetadata'
+[ Jumat, 01 - 06 - 2018 | 20:27:54 ] sendMention() got an unexpected keyword argument 'contentMetadata'
+[ Jumat, 01 - 06 - 2018 | 21:46:35 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Jumat, 01 - 06 - 2018 | 22:59:58 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Jumat, 01 - 06 - 2018 | 23:05:45 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Jumat, 01 - 06 - 2018 | 23:14:30 ] 'str' object has no attribute 'footer'
+[ Jumat, 01 - 06 - 2018 | 23:19:42 ] local variable 'msg' referenced before assignment
+[ Sabtu, 02 - 06 - 2018 | 01:16:11 ] 'str' object has no attribute 'footer'
+[ Sabtu, 02 - 06 - 2018 | 01:17:31 ] 'contentMetadata' is an invalid keyword argument for this function
+[ Sabtu, 02 - 06 - 2018 | 01:19:07 ] 'contentMetadata' is an invalid keyword argument for this function
+[ Sabtu, 02 - 06 - 2018 | 01:19:45 ] 'contentMetadata' is an invalid keyword argument for this function
+[ Sabtu, 02 - 06 - 2018 | 01:21:03 ] str() argument 2 must be str, not dict
+[ Sabtu, 02 - 06 - 2018 | 01:23:59 ] Upload image failure.
+[ Sabtu, 02 - 06 - 2018 | 06:15:25 ] name 'client' is not defined
+[ Sabtu, 02 - 06 - 2018 | 07:00:29 ] name 'pict' is not defined
+[ Sabtu, 02 - 06 - 2018 | 07:10:53 ] Error change video and picture profile [Errno 2] No such file or directory: 'video.mp4'
+[ Sabtu, 02 - 06 - 2018 | 07:14:02 ] Error change video and picture profile [Errno 2] No such file or directory: 'video.mp4'
+[ Sabtu, 02 - 06 - 2018 | 07:51:23 ] Error change video and picture profile [Errno 2] No such file or directory: 'video.mp4'
+[ Sabtu, 02 - 06 - 2018 | 23:39:24 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Minggu, 03 - 06 - 2018 | 00:25:12 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Minggu, 03 - 06 - 2018 | 00:26:35 ] Upload image failure.
+[ Minggu, 03 - 06 - 2018 | 00:31:06 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Minggu, 03 - 06 - 2018 | 03:39:57 ] local variable 'sender' referenced before assignment
+[ Minggu, 03 - 06 - 2018 | 03:51:00 ] 'Message' object has no attribute 'from_'
+[ Minggu, 03 - 06 - 2018 | 03:51:58 ] local variable 'msg_id' referenced before assignment
+[ Minggu, 03 - 06 - 2018 | 03:53:31 ] local variable 'sender' referenced before assignment
+[ Minggu, 03 - 06 - 2018 | 03:54:29 ] sendChatChecked() missing 1 required positional argument: 'messageId'
+[ Minggu, 03 - 06 - 2018 | 03:55:28 ] local variable 'msg_id' referenced before assignment
+[ Minggu, 03 - 06 - 2018 | 03:58:56 ] local variable 'sender' referenced before assignment
+[ Minggu, 03 - 06 - 2018 | 04:07:33 ] local variable 'sender' referenced before assignment
+[ Minggu, 03 - 06 - 2018 | 04:09:20 ] local variable 'sender' referenced before assignment
+[ Minggu, 03 - 06 - 2018 | 04:27:31 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Minggu, 03 - 06 - 2018 | 04:28:32 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Minggu, 03 - 06 - 2018 | 04:28:40 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Minggu, 03 - 06 - 2018 | 04:28:48 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Minggu, 03 - 06 - 2018 | 04:28:55 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Minggu, 03 - 06 - 2018 | 06:53:53 ] name 'admin' is not defined
+[ Minggu, 03 - 06 - 2018 | 06:54:33 ] name 'admin' is not defined
+[ Minggu, 03 - 06 - 2018 | 06:55:29 ] name 'admin' is not defined
+[ Minggu, 03 - 06 - 2018 | 06:55:51 ] name 'Owner' is not defined
+[ Minggu, 03 - 06 - 2018 | 07:13:40 ] name 'admin' is not defined
+[ Minggu, 03 - 06 - 2018 | 07:20:27 ] name 'aMid' is not defined
+[ Minggu, 03 - 06 - 2018 | 07:54:09 ] name 'Prosses' is not defined
+[ Minggu, 03 - 06 - 2018 | 08:29:08 ] local variable 'to' referenced before assignment
+[ Minggu, 03 - 06 - 2018 | 08:30:59 ] sendMentionWithContent() takes 6 positional arguments but 7 were given
+[ Minggu, 03 - 06 - 2018 | 08:33:50 ] string indices must be integers
+[ Minggu, 03 - 06 - 2018 | 08:35:13 ] 'LINE' object has no attribute 'sendMention'
+[ Minggu, 03 - 06 - 2018 | 08:44:56 ] 'LINE' object has no attribute 'sendMention'
+[ Minggu, 03 - 06 - 2018 | 09:00:56 ] name 'sendMention' is not defined
+[ Minggu, 03 - 06 - 2018 | 09:01:13 ] name 'sendMention' is not defined
+[ Minggu, 03 - 06 - 2018 | 09:02:33 ] name 'sendMention' is not defined
+[ Minggu, 03 - 06 - 2018 | 09:02:43 ] name 'sendMention' is not defined
+[ Minggu, 03 - 06 - 2018 | 09:03:38 ] sendMention() takes from 1 to 3 positional arguments but 5 were given
+[ Minggu, 03 - 06 - 2018 | 09:10:40 ] sendMention() got multiple values for argument 'text'
+[ Minggu, 03 - 06 - 2018 | 09:12:50 ] sendMention() got multiple values for argument 'text'
+[ Minggu, 03 - 06 - 2018 | 09:20:45 ] 'LINE' object has no attribute 'sendMentionWithConte'
+[ Minggu, 03 - 06 - 2018 | 09:21:55 ] sendMention() got multiple values for argument 'text'
+[ Minggu, 03 - 06 - 2018 | 09:24:06 ] sendMentionWithContent() missing 3 required positional arguments: 'name', 'url', and 'iconlink'
+[ Minggu, 03 - 06 - 2018 | 09:38:08 ] sendMention() takes from 1 to 3 positional arguments but 4 were given
+[ Minggu, 03 - 06 - 2018 | 10:06:00 ] sendMessage() takes from 3 to 5 positional arguments but 6 were given
+[ Minggu, 03 - 06 - 2018 | 15:13:42 ] sendMessage() takes from 3 to 5 positional arguments but 6 were given
+[ Minggu, 03 - 06 - 2018 | 15:14:19 ] sendMessage() takes from 3 to 5 positional arguments but 6 were given
+[ Minggu, 03 - 06 - 2018 | 15:14:38 ] sendMessage() takes from 3 to 5 positional arguments but 6 were given
+[ Minggu, 03 - 06 - 2018 | 15:14:46 ] sendMessage() takes from 3 to 5 positional arguments but 6 were given
+[ Minggu, 03 - 06 - 2018 | 15:15:04 ] sendMessage() takes from 3 to 5 positional arguments but 6 were given
+[ Minggu, 03 - 06 - 2018 | 18:05:55 ] Error change video and picture profile [Errno 2] No such file or directory: 'image.jpg'
+[ Minggu, 03 - 06 - 2018 | 18:13:13 ] sendMessage() takes from 3 to 5 positional arguments but 6 were given
+[ Minggu, 03 - 06 - 2018 | 19:21:31 ] sendMessageWithContent() missing 3 required positional arguments: 'name', 'url', and 'iconlink'
+[ Minggu, 03 - 06 - 2018 | 19:22:35 ] sendMessageWithContent() missing 3 required positional arguments: 'name', 'url', and 'iconlink'
+[ Minggu, 03 - 06 - 2018 | 19:24:22 ] sendMessageWithContent() missing 3 required positional arguments: 'name', 'url', and 'iconlink'
+[ Minggu, 03 - 06 - 2018 | 19:25:32 ] sendMessageWithContent() missing 3 required positional arguments: 'name', 'url', and 'iconlink'
+[ Minggu, 03 - 06 - 2018 | 19:26:05 ] sendMessageWithContent() missing 3 required positional arguments: 'name', 'url', and 'iconlink'
+[ Minggu, 03 - 06 - 2018 | 21:10:01 ] sendMessageWithMention() takes from 2 to 4 positional arguments but 6 were given
+[ Minggu, 03 - 06 - 2018 | 21:55:52 ] 'Contact' object has no attribute 'mi_d'
+[ Minggu, 03 - 06 - 2018 | 21:57:14 ] 'Contact' object has no attribute 'mi_d'
+[ Minggu, 03 - 06 - 2018 | 22:00:43 ] 'Contact' object has no attribute 'msg'
+[ Minggu, 03 - 06 - 2018 | 22:04:10 ] 'str' object has no attribute 'pictureStatus'
+[ Minggu, 03 - 06 - 2018 | 22:08:36 ] 'str' object is not callable
+[ Minggu, 03 - 06 - 2018 | 22:09:50 ] name 'pictureStatus' is not defined
+[ Minggu, 03 - 06 - 2018 | 22:09:58 ] name 'pictureStatus' is not defined
+[ Minggu, 03 - 06 - 2018 | 22:13:07 ] 'Contact' object has no attribute 'displayContact'
+[ Minggu, 03 - 06 - 2018 | 22:13:47 ] 'Contact' object has no attribute 'displayMid'
+[ Minggu, 03 - 06 - 2018 | 22:23:32 ] name 'url' is not defined
+[ Minggu, 03 - 06 - 2018 | 22:58:03 ] encoding without a string argument
+[ Minggu, 03 - 06 - 2018 | 23:22:37 ] 'mid'
+[ Senin, 04 - 06 - 2018 | 05:05:31 ] encoding without a string argument
+[ Senin, 04 - 06 - 2018 | 05:05:58 ] 
+[ Senin, 04 - 06 - 2018 | 05:06:51 ] encoding without a string argument
+[ Senin, 04 - 06 - 2018 | 05:10:22 ] encoding without a string argument
+[ Senin, 04 - 06 - 2018 | 05:11:43 ] encoding without a string argument
+[ Senin, 04 - 06 - 2018 | 05:14:09 ] encoding without a string argument
+[ Senin, 04 - 06 - 2018 | 05:15:41 ] encoding without a string argument
+[ Senin, 04 - 06 - 2018 | 05:15:58 ] 
+[ Senin, 04 - 06 - 2018 | 05:16:02 ] 
+[ Senin, 04 - 06 - 2018 | 05:16:48 ] encoding without a string argument
+[ Senin, 04 - 06 - 2018 | 05:29:25 ] encoding without a string argument
+[ Senin, 04 - 06 - 2018 | 05:33:18 ] encoding without a string argument
+[ Senin, 04 - 06 - 2018 | 05:33:50 ] encoding without a string argument
+[ Senin, 04 - 06 - 2018 | 05:37:59 ] encoding without a string argument
+[ Senin, 04 - 06 - 2018 | 14:05:42 ] Upload image failure.
+[ Senin, 04 - 06 - 2018 | 18:30:00 ] Download object failure.
+[ Senin, 04 - 06 - 2018 | 18:56:12 ] local variable 'contact' referenced before assignment
+[ Senin, 04 - 06 - 2018 | 18:59:31 ] local variable 'ls' referenced before assignment
+[ Senin, 04 - 06 - 2018 | 19:03:25 ] Upload image failure.
+[ Senin, 04 - 06 - 2018 | 19:03:41 ] Upload image failure.
+[ Senin, 04 - 06 - 2018 | 19:05:18 ] Upload image failure.
+[ Senin, 04 - 06 - 2018 | 19:05:44 ] Download object failure.
+[ Senin, 04 - 06 - 2018 | 19:06:35 ] 'str' object has no attribute 'pictureStatus'
+[ Senin, 04 - 06 - 2018 | 19:09:44 ] TalkException(code=73, reason='Group size over limit : 1474095244, 690044675', parameterMap=None)
+[ Senin, 04 - 06 - 2018 | 19:28:49 ] sendMessage() takes from 3 to 5 positional arguments but 6 were given
+[ Senin, 04 - 06 - 2018 | 19:31:10 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 04 - 06 - 2018 | 19:33:55 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 04 - 06 - 2018 | 19:35:39 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 04 - 06 - 2018 | 19:37:16 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 04 - 06 - 2018 | 19:37:41 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 04 - 06 - 2018 | 19:38:41 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 04 - 06 - 2018 | 19:58:24 ] local variable 'contact' referenced before assignment
+[ Senin, 04 - 06 - 2018 | 19:59:00 ] local variable 'contact' referenced before assignment
+[ Senin, 04 - 06 - 2018 | 20:01:47 ] name 'sender' is not defined
+[ Senin, 04 - 06 - 2018 | 20:07:42 ] name 'sender' is not defined
+[ Senin, 04 - 06 - 2018 | 20:12:06 ] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[ Senin, 04 - 06 - 2018 | 20:19:31 ] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[ Senin, 04 - 06 - 2018 | 20:24:41 ] name 'to' is not defined
+[ Senin, 04 - 06 - 2018 | 20:30:18 ] name 'to' is not defined
+[ Senin, 04 - 06 - 2018 | 20:31:28 ] TalkException(code=73, reason='Group size over limit : 1474095244, 694890269', parameterMap=None)
+[ Senin, 04 - 06 - 2018 | 20:44:13 ] Upload image failure.
+[ Senin, 04 - 06 - 2018 | 21:21:52 ] name 'to' is not defined
+[ Senin, 04 - 06 - 2018 | 21:21:58 ] TalkException(code=99, reason='group key member mismatch', parameterMap={})
+[ Senin, 04 - 06 - 2018 | 21:22:25 ] TalkException(code=99, reason='group key member mismatch', parameterMap={})
+[ Senin, 04 - 06 - 2018 | 21:24:50 ] TalkException(code=99, reason='group key member mismatch', parameterMap={})
+[ Senin, 04 - 06 - 2018 | 21:27:12 ] TalkException(code=82, reason='types mismatch', parameterMap={})
+[ Senin, 04 - 06 - 2018 | 21:27:29 ] TalkException(code=99, reason='group key member mismatch', parameterMap={})
+[ Senin, 04 - 06 - 2018 | 21:28:05 ] TalkException(code=99, reason='group key member mismatch', parameterMap={})
+[ Senin, 04 - 06 - 2018 | 21:28:44 ] TalkException(code=99, reason='group key member mismatch', parameterMap={})
+[ Senin, 04 - 06 - 2018 | 21:28:50 ] TalkException(code=82, reason='types mismatch', parameterMap={})
+[ Senin, 04 - 06 - 2018 | 21:29:04 ] TalkException(code=82, reason='types mismatch', parameterMap={})
+[ Senin, 04 - 06 - 2018 | 21:29:28 ] TalkException(code=82, reason='types mismatch', parameterMap={})
+[ Senin, 04 - 06 - 2018 | 21:30:48 ] TalkException(code=99, reason='group key member mismatch', parameterMap={})
+[ Senin, 04 - 06 - 2018 | 21:35:20 ] TalkException(code=99, reason='group key member mismatch', parameterMap={})
+[ Senin, 04 - 06 - 2018 | 21:42:40 ] TalkException(code=99, reason='group key member mismatch', parameterMap={})
+[ Senin, 04 - 06 - 2018 | 21:42:49 ] TalkException(code=73, reason='Prevented join by ticket: 1474095244, 739549207', parameterMap=None)
+[ Senin, 04 - 06 - 2018 | 22:12:31 ] Upload image failure.
+[ Senin, 04 - 06 - 2018 | 22:41:11 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Senin, 04 - 06 - 2018 | 22:45:23 ] Upload image failure.
+[ Senin, 04 - 06 - 2018 | 22:47:32 ] Upload image failure.
+[ Senin, 04 - 06 - 2018 | 22:53:42 ] Upload image failure.
+[ Selasa, 05 - 06 - 2018 | 01:51:03 ] local variable 'contact' referenced before assignment
+[ Selasa, 05 - 06 - 2018 | 01:54:23 ] sendMessage() takes from 3 to 5 positional arguments but 6 were given
+[ Selasa, 05 - 06 - 2018 | 01:55:06 ] sendMessageWithMention() takes from 2 to 4 positional arguments but 6 were given
+[ Selasa, 05 - 06 - 2018 | 02:01:46 ] local variable 'contact' referenced before assignment
+[ Selasa, 05 - 06 - 2018 | 02:14:09 ] Upload image failure.
+[ Selasa, 05 - 06 - 2018 | 02:14:15 ] Upload image failure.
+[ Selasa, 05 - 06 - 2018 | 02:25:03 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Selasa, 05 - 06 - 2018 | 02:26:22 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Selasa, 05 - 06 - 2018 | 04:39:55 ] sendMessage() takes from 3 to 5 positional arguments but 6 were given
+[ Selasa, 05 - 06 - 2018 | 04:43:01 ] local variable 'contact' referenced before assignment
+[ Selasa, 05 - 06 - 2018 | 04:44:31 ] local variable 'cName' referenced before assignment
+[ Selasa, 05 - 06 - 2018 | 05:04:00 ] sendMessageWithContent() got an unexpected keyword argument 'contentMetadata'
+[ Selasa, 05 - 06 - 2018 | 05:10:03 ] sendMessage() takes from 3 to 5 positional arguments but 6 were given
+[ Selasa, 05 - 06 - 2018 | 05:57:47 ] local variable 'ls' referenced before assignment
+[ Selasa, 05 - 06 - 2018 | 06:16:43 ] sendMessage() takes from 3 to 5 positional arguments but 6 were given
+[ Selasa, 05 - 06 - 2018 | 06:44:12 ] 'str' object has no attribute 'items'
+[ Selasa, 05 - 06 - 2018 | 06:44:35 ] 
+[ Selasa, 05 - 06 - 2018 | 15:53:51 ] sendMessageWithContent() missing 1 required positional argument: 'iconlink'
+[ Selasa, 05 - 06 - 2018 | 15:56:24 ] len() takes exactly one argument (3 given)
+[ Selasa, 05 - 06 - 2018 | 15:57:24 ] sendMessageWithContent() missing 3 required positional arguments: 'name', 'url', and 'iconlink'
+[ Selasa, 05 - 06 - 2018 | 15:58:57 ] sendMessage() takes from 3 to 5 positional arguments but 6 were given
+[ Selasa, 05 - 06 - 2018 | 16:05:59 ] dumps() takes 1 positional argument but 4 were given
+[ Selasa, 05 - 06 - 2018 | 16:06:51 ] dumps() takes 1 positional argument but 4 were given
+[ Selasa, 05 - 06 - 2018 | 16:09:18 ] sendMessageWithContent() got an unexpected keyword argument 'contentMetadata'
+[ Selasa, 05 - 06 - 2018 | 16:11:21 ] dumps() takes 1 positional argument but 4 were given
+[ Selasa, 05 - 06 - 2018 | 16:19:35 ] sendMessageWithContent() got an unexpected keyword argument 'contentMetadata'
+[ Selasa, 05 - 06 - 2018 | 16:21:20 ] dumps() takes 1 positional argument but 4 were given
+[ Selasa, 05 - 06 - 2018 | 16:24:17 ] dumps() takes 1 positional argument but 4 were given
+[ Selasa, 05 - 06 - 2018 | 16:26:33 ] sendMessage() takes from 3 to 5 positional arguments but 6 were given
+[ Selasa, 05 - 06 - 2018 | 16:27:27 ] 'MENTION'
+[ Selasa, 05 - 06 - 2018 | 17:19:13 ] encoding without a string argument
+[ Selasa, 05 - 06 - 2018 | 18:04:12 ] sendMessageWithContent() got an unexpected keyword argument 'contentMetadata'
+[ Selasa, 05 - 06 - 2018 | 18:14:56 ] Download object failure.
+[ Selasa, 05 - 06 - 2018 | 19:00:49 ] local variable 'path' referenced before assignment
+[ Selasa, 05 - 06 - 2018 | 19:35:29 ] Upload image failure.
+[ Selasa, 05 - 06 - 2018 | 19:37:39 ] Upload image failure.
+[ Selasa, 05 - 06 - 2018 | 19:42:52 ] Upload image failure.
+[ Selasa, 05 - 06 - 2018 | 20:09:44 ] 'displayName'
+[ Selasa, 05 - 06 - 2018 | 20:09:51 ] 'displayName'
+[ Selasa, 05 - 06 - 2018 | 20:09:51 ] 'displayName'
+[ Selasa, 05 - 06 - 2018 | 20:09:56 ] 'displayName'
+[ Selasa, 05 - 06 - 2018 | 20:10:00 ] 'displayName'
+[ Selasa, 05 - 06 - 2018 | 20:10:03 ] 'displayName'
+[ Selasa, 05 - 06 - 2018 | 20:10:05 ] 'displayName'
+[ Selasa, 05 - 06 - 2018 | 20:10:08 ] 'displayName'
+[ Selasa, 05 - 06 - 2018 | 20:18:18 ] 'displayName'
+[ Selasa, 05 - 06 - 2018 | 20:23:23 ] sendMessage() takes from 3 to 5 positional arguments but 6 were given
+[ Selasa, 05 - 06 - 2018 | 20:24:12 ] 'displayName'
+[ Selasa, 05 - 06 - 2018 | 20:24:22 ] 'str' object has no attribute 'pictureStatus'
+[ Selasa, 05 - 06 - 2018 | 20:25:56 ] 'displayName'
+[ Selasa, 05 - 06 - 2018 | 20:26:06 ] 'str' object has no attribute 'pictureStatus'
+[ Selasa, 05 - 06 - 2018 | 20:29:19 ] 'displayName'
+[ Selasa, 05 - 06 - 2018 | 20:29:26 ] local variable 'sender' referenced before assignment
+[ Selasa, 05 - 06 - 2018 | 20:32:57 ] 'displayName'
+[ Selasa, 05 - 06 - 2018 | 20:33:05 ] local variable 'sender' referenced before assignment
+[ Selasa, 05 - 06 - 2018 | 20:36:53 ] 'displayName'
+[ Selasa, 05 - 06 - 2018 | 20:37:04 ] local variable 'targets' referenced before assignment
+[ Selasa, 05 - 06 - 2018 | 20:38:34 ] 'displayName'
+[ Selasa, 05 - 06 - 2018 | 20:38:42 ] encoding without a string argument
+[ Selasa, 05 - 06 - 2018 | 20:39:17 ] 'displayName'
+[ Selasa, 05 - 06 - 2018 | 20:39:25 ] encoding without a string argument
+[ Selasa, 05 - 06 - 2018 | 20:41:50 ] 'displayName'
+[ Selasa, 05 - 06 - 2018 | 20:42:13 ] 'displayName'
+[ Selasa, 05 - 06 - 2018 | 20:49:14 ] 'displayName'
+[ Selasa, 05 - 06 - 2018 | 21:07:04 ] 'displayName'
+[ Selasa, 05 - 06 - 2018 | 21:08:10 ] 'displayName'
+[ Selasa, 05 - 06 - 2018 | 21:11:34 ] 'displayName'
+[ Selasa, 05 - 06 - 2018 | 21:12:18 ] 'displayName'
+[ Selasa, 05 - 06 - 2018 | 21:13:01 ] 'displayName'
+[ Selasa, 05 - 06 - 2018 | 21:20:26 ] 'displayName'
+[ Selasa, 05 - 06 - 2018 | 21:22:07 ] 'displayName'
+[ Selasa, 05 - 06 - 2018 | 21:25:05 ] 'displayName'
+[ Selasa, 05 - 06 - 2018 | 22:05:05 ] local variable 'group' referenced before assignment
+[ Selasa, 05 - 06 - 2018 | 22:12:40 ] local variable 'path' referenced before assignment
+[ Selasa, 05 - 06 - 2018 | 22:15:28 ] local variable 'group' referenced before assignment
+[ Selasa, 05 - 06 - 2018 | 22:20:53 ] 'displayName'
+[ Rabu, 06 - 06 - 2018 | 00:56:17 ] local variable 'group' referenced before assignment
+[ Rabu, 06 - 06 - 2018 | 00:58:20 ] local variable 'group' referenced before assignment
+[ Rabu, 06 - 06 - 2018 | 01:13:27 ] 'LINE' object has no attribute 'sendText'
+[ Rabu, 06 - 06 - 2018 | 01:14:14 ] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[ Rabu, 06 - 06 - 2018 | 01:14:40 ] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[ Rabu, 06 - 06 - 2018 | 01:16:12 ] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[ Rabu, 06 - 06 - 2018 | 17:15:41 ] 'data'
+[ Rabu, 06 - 06 - 2018 | 17:17:13 ] Expecting value: line 1 column 1 (char 0)
+[ Rabu, 06 - 06 - 2018 | 17:18:05 ] Expecting value: line 1 column 1 (char 0)
+[ Rabu, 06 - 06 - 2018 | 18:52:09 ] list indices must be integers or slices, not str
+[ Rabu, 06 - 06 - 2018 | 19:08:11 ] must be str, not tuple
+[ Rabu, 06 - 06 - 2018 | 19:09:18 ] list indices must be integers or slices, not str
+[ Rabu, 06 - 06 - 2018 | 19:36:18 ] list indices must be integers or slices, not str
+[ Rabu, 06 - 06 - 2018 | 19:36:30 ] list indices must be integers or slices, not str
+[ Rabu, 06 - 06 - 2018 | 20:58:13 ] sendMessage() takes from 3 to 5 positional arguments but 6 were given
+[ Rabu, 06 - 06 - 2018 | 23:02:40 ] list indices must be integers or slices, not str
+[ Rabu, 06 - 06 - 2018 | 23:03:29 ] list indices must be integers or slices, not str
+[ Rabu, 06 - 06 - 2018 | 23:05:38 ] 'url'
+[ Rabu, 06 - 06 - 2018 | 23:07:42 ] 'url'
+[ Rabu, 06 - 06 - 2018 | 23:27:43 ] invalid literal for int() with base 10: ''
+[ Rabu, 06 - 06 - 2018 | 23:27:47 ] list indices must be integers or slices, not str
+[ Rabu, 06 - 06 - 2018 | 23:29:36 ] list indices must be integers or slices, not str
+[ Kamis, 07 - 06 - 2018 | 09:13:17 ] Download object failure.
+[ Kamis, 07 - 06 - 2018 | 09:13:32 ] Download object failure.
+[ Kamis, 07 - 06 - 2018 | 09:14:12 ] HTTPSConnectionPool(host='obs-sg.line-apps.com', port=443): Max retries exceeded with url: /talk/m/download.nhn?oid=8077411852223 (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:748)'),))
+[ Kamis, 07 - 06 - 2018 | 09:14:28 ] HTTPSConnectionPool(host='obs-sg.line-apps.com', port=443): Max retries exceeded with url: /talk/m/download.nhn?oid=8077413319490 (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:748)'),))
+[ Kamis, 07 - 06 - 2018 | 09:16:07 ] Download object failure.
+[ Kamis, 07 - 06 - 2018 | 09:16:52 ] HTTPSConnectionPool(host='obs-sg.line-apps.com', port=443): Max retries exceeded with url: /talk/m/download.nhn?oid=8077420395087 (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:748)'),))
+[ Kamis, 07 - 06 - 2018 | 09:17:00 ] Download object failure.
+[ Kamis, 07 - 06 - 2018 | 13:31:08 ] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[ Kamis, 07 - 06 - 2018 | 13:34:55 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Kamis, 07 - 06 - 2018 | 16:20:11 ] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[ Kamis, 07 - 06 - 2018 | 16:20:51 ] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[ Kamis, 07 - 06 - 2018 | 16:23:06 ] name 'Galank' is not defined
+[ Kamis, 07 - 06 - 2018 | 16:23:59 ] 'LINE' object has no attribute 'friends'
+[ Kamis, 07 - 06 - 2018 | 16:36:53 ] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[ Kamis, 07 - 06 - 2018 | 16:38:38 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Kamis, 07 - 06 - 2018 | 16:41:37 ] 'method' object is not iterable
+[ Kamis, 07 - 06 - 2018 | 16:45:47 ] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[ Kamis, 07 - 06 - 2018 | 16:47:16 ] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[ Kamis, 07 - 06 - 2018 | 16:48:12 ] unhashable type: 'list'
+[ Kamis, 07 - 06 - 2018 | 16:49:06 ] unhashable type: 'list'
+[ Kamis, 07 - 06 - 2018 | 16:50:20 ] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[ Kamis, 07 - 06 - 2018 | 16:56:34 ] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[ Kamis, 07 - 06 - 2018 | 16:57:44 ] unhashable type: 'list'
+[ Kamis, 07 - 06 - 2018 | 17:01:38 ] 'str' object has no attribute 'items'
+[ Kamis, 07 - 06 - 2018 | 17:03:34 ] encoding without a string argument
+[ Kamis, 07 - 06 - 2018 | 17:09:32 ] 'str' object has no attribute 'items'
+[ Kamis, 07 - 06 - 2018 | 17:10:19 ] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[ Kamis, 07 - 06 - 2018 | 17:21:45 ] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[ Kamis, 07 - 06 - 2018 | 17:34:21 ] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[ Kamis, 07 - 06 - 2018 | 17:36:26 ] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[ Kamis, 07 - 06 - 2018 | 17:42:17 ] getGroupIdsJoined() takes 1 positional argument but 2 were given
+[ Kamis, 07 - 06 - 2018 | 17:49:54 ] sendMessage() missing 1 required positional argument: 'text'
+[ Kamis, 07 - 06 - 2018 | 17:53:47 ] getGroupIdsJoined() takes 1 positional argument but 2 were given
+[ Kamis, 07 - 06 - 2018 | 17:54:51 ] getGroupIdsJoined() takes 1 positional argument but 2 were given
+[ Kamis, 07 - 06 - 2018 | 17:56:25 ] unhashable type: 'list'
+[ Kamis, 07 - 06 - 2018 | 17:59:04 ] encoding without a string argument
+[ Kamis, 07 - 06 - 2018 | 18:00:17 ] 'str' object has no attribute 'items'
+[ Kamis, 07 - 06 - 2018 | 18:00:52 ] 'str' object has no attribute 'items'
+[ Kamis, 07 - 06 - 2018 | 18:05:56 ] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[ Kamis, 07 - 06 - 2018 | 18:32:01 ] getGroupIdsJoined() takes 1 positional argument but 2 were given
+[ Kamis, 07 - 06 - 2018 | 18:37:45 ] can only concatenate list (not "str") to list
+[ Kamis, 07 - 06 - 2018 | 18:42:19 ] 'str' object is not callable
+[ Kamis, 07 - 06 - 2018 | 18:45:48 ] 'str' object is not callable
+[ Kamis, 07 - 06 - 2018 | 18:47:59 ] 'str' object is not callable
+[ Kamis, 07 - 06 - 2018 | 18:50:31 ] 'str' object has no attribute 'items'
+[ Kamis, 07 - 06 - 2018 | 18:51:14 ] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[ Kamis, 07 - 06 - 2018 | 18:59:01 ] 'str' object has no attribute 'items'
+[ Kamis, 07 - 06 - 2018 | 18:59:37 ] 'str' object has no attribute 'items'
+[ Kamis, 07 - 06 - 2018 | 19:00:06 ] TalkException(code=0, reason='unable to find midType', parameterMap={})
+[ Kamis, 07 - 06 - 2018 | 19:01:48 ] TalkException(code=0, reason='unable to find midType', parameterMap={})
+[ Kamis, 07 - 06 - 2018 | 19:16:46 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Kamis, 07 - 06 - 2018 | 19:18:09 ] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[ Kamis, 07 - 06 - 2018 | 19:18:21 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Kamis, 07 - 06 - 2018 | 19:19:33 ] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[ Kamis, 07 - 06 - 2018 | 19:20:24 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Kamis, 07 - 06 - 2018 | 19:20:36 ] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[ Kamis, 07 - 06 - 2018 | 19:21:28 ] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[ Kamis, 07 - 06 - 2018 | 19:24:50 ] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[ Kamis, 07 - 06 - 2018 | 20:46:40 ] unhashable type: 'list'
+[ Kamis, 07 - 06 - 2018 | 20:52:17 ] unhashable type: 'list'
+[ Kamis, 07 - 06 - 2018 | 20:53:43 ] 'str' object is not callable
+[ Kamis, 07 - 06 - 2018 | 20:54:20 ] 'str' object has no attribute 'groups'
+[ Kamis, 07 - 06 - 2018 | 21:12:44 ] sendMessageWithMention() takes from 2 to 4 positional arguments but 6 were given
+[ Kamis, 07 - 06 - 2018 | 22:12:41 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Kamis, 07 - 06 - 2018 | 22:15:48 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Kamis, 07 - 06 - 2018 | 22:53:56 ] TalkException(code=10, reason='You are not a member of group: c67628fdff1f75e3f23e6a9cfcb773273', parameterMap=None)
+[ Kamis, 07 - 06 - 2018 | 22:58:25 ] TalkException(code=10, reason='You are not a member of group: c67628fdff1f75e3f23e6a9cfcb773273', parameterMap=None)
+[ Kamis, 07 - 06 - 2018 | 23:01:59 ] sendMessageWithContent() missing 2 required positional arguments: 'url' and 'iconlink'
+[ Kamis, 07 - 06 - 2018 | 23:02:09 ] sendMessageWithContent() missing 2 required positional arguments: 'url' and 'iconlink'
+[ Kamis, 07 - 06 - 2018 | 23:02:45 ] sendMessageWithContent() missing 2 required positional arguments: 'url' and 'iconlink'
+[ Kamis, 07 - 06 - 2018 | 23:04:26 ] sendMessageWithContent() missing 3 required positional arguments: 'name', 'url', and 'iconlink'
+[ Kamis, 07 - 06 - 2018 | 23:14:36 ] TalkException(code=10, reason='You are not a member of group: c67628fdff1f75e3f23e6a9cfcb773273', parameterMap=None)
+[ Kamis, 07 - 06 - 2018 | 23:15:48 ] TalkException(code=5, reason='Ticket not found: ', parameterMap=None)
+[ Kamis, 07 - 06 - 2018 | 23:29:21 ] sendMessageWithContent() got an unexpected keyword argument 'contentMetadata'
+[ Kamis, 07 - 06 - 2018 | 23:30:33 ] sendMessageWithContent() got an unexpected keyword argument 'contentMetadata'
+[ Kamis, 07 - 06 - 2018 | 23:43:10 ] Invalid mids
+[ Kamis, 07 - 06 - 2018 | 23:48:12 ] must be str, not NoneType
+[ Kamis, 07 - 06 - 2018 | 23:49:18 ] must be str, not tuple
+[ Kamis, 07 - 06 - 2018 | 23:52:03 ] must be str, not NoneType
+[ Kamis, 07 - 06 - 2018 | 23:52:25 ] must be str, not NoneType
+[ Jumat, 08 - 06 - 2018 | 00:01:18 ] Upload image failure.
+[ Jumat, 08 - 06 - 2018 | 00:04:23 ] must be str, not tuple
+[ Jumat, 08 - 06 - 2018 | 00:04:27 ] Upload image failure.
+[ Jumat, 08 - 06 - 2018 | 00:04:32 ] must be str, not tuple
+[ Jumat, 08 - 06 - 2018 | 00:05:05 ] Upload image failure.
+[ Jumat, 08 - 06 - 2018 | 00:05:13 ] must be str, not tuple
+[ Jumat, 08 - 06 - 2018 | 00:05:20 ] must be str, not tuple
+[ Jumat, 08 - 06 - 2018 | 00:05:26 ] must be str, not tuple
+[ Jumat, 08 - 06 - 2018 | 00:05:31 ] must be str, not NoneType
+[ Jumat, 08 - 06 - 2018 | 00:05:36 ] must be str, not tuple
+[ Jumat, 08 - 06 - 2018 | 00:08:05 ] must be str, not tuple
+[ Jumat, 08 - 06 - 2018 | 00:08:14 ] must be str, not tuple
+[ Jumat, 08 - 06 - 2018 | 00:08:18 ] Upload image failure.
+[ Jumat, 08 - 06 - 2018 | 00:10:42 ] must be str, not tuple
+[ Jumat, 08 - 06 - 2018 | 00:10:45 ] Upload image failure.
+[ Jumat, 08 - 06 - 2018 | 00:10:49 ] Upload image failure.
+[ Jumat, 08 - 06 - 2018 | 00:10:53 ] Upload image failure.
+[ Jumat, 08 - 06 - 2018 | 00:12:51 ] must be str, not NoneType
+[ Jumat, 08 - 06 - 2018 | 00:12:58 ] must be str, not NoneType
+[ Jumat, 08 - 06 - 2018 | 00:13:01 ] Upload image failure.
+[ Jumat, 08 - 06 - 2018 | 00:18:10 ] Upload image failure.
+[ Jumat, 08 - 06 - 2018 | 00:19:33 ] 'LINE' object has no attribute 'sendMention'
+[ Jumat, 08 - 06 - 2018 | 00:19:36 ] 'LINE' object has no attribute 'sendMention'
+[ Jumat, 08 - 06 - 2018 | 00:19:40 ] Upload image failure.
+[ Jumat, 08 - 06 - 2018 | 00:19:43 ] 'LINE' object has no attribute 'sendMention'
+[ Jumat, 08 - 06 - 2018 | 00:21:19 ] 'LINE' object has no attribute 'sendMention'
+[ Jumat, 08 - 06 - 2018 | 00:21:23 ] Upload image failure.
+[ Jumat, 08 - 06 - 2018 | 00:21:26 ] Upload image failure.
+[ Jumat, 08 - 06 - 2018 | 00:21:30 ] Upload image failure.
+[ Jumat, 08 - 06 - 2018 | 00:32:10 ] 'function' object is not subscriptable
+[ Jumat, 08 - 06 - 2018 | 00:40:47 ] Invalid mids
+[ Jumat, 08 - 06 - 2018 | 01:22:42 ] must be str, not NoneType
+[ Jumat, 08 - 06 - 2018 | 01:40:31 ] Upload image failure.
+[ Jumat, 08 - 06 - 2018 | 01:42:14 ] Upload image failure.
+[ Jumat, 08 - 06 - 2018 | 01:42:22 ] Upload image failure.
+[ Jumat, 08 - 06 - 2018 | 03:00:19 ] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[ Jumat, 08 - 06 - 2018 | 03:02:27 ] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[ Jumat, 08 - 06 - 2018 | 03:04:38 ] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[ Jumat, 08 - 06 - 2018 | 03:22:21 ] sendMessage() got an unexpected keyword argument 'group'
+[ Jumat, 08 - 06 - 2018 | 03:22:51 ] sendMessage() got an unexpected keyword argument 'group'
+[ Jumat, 08 - 06 - 2018 | 03:23:36 ] 'str' object has no attribute 'items'
+[ Jumat, 08 - 06 - 2018 | 03:27:49 ] 'str' object has no attribute 'items'
+[ Jumat, 08 - 06 - 2018 | 03:31:38 ] 'str' object has no attribute 'items'
+[ Jumat, 08 - 06 - 2018 | 03:34:29 ] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[ Jumat, 08 - 06 - 2018 | 03:35:44 ] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[ Jumat, 08 - 06 - 2018 | 03:36:27 ] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[ Jumat, 08 - 06 - 2018 | 03:37:19 ] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[ Jumat, 08 - 06 - 2018 | 04:25:53 ] local variable 'group' referenced before assignment
+[ Jumat, 08 - 06 - 2018 | 04:32:30 ] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[ Jumat, 08 - 06 - 2018 | 04:42:39 ] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[ Jumat, 08 - 06 - 2018 | 04:44:44 ] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[ Jumat, 08 - 06 - 2018 | 04:49:04 ] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[ Jumat, 08 - 06 - 2018 | 14:57:25 ] TalkException(code=0, reason='can not send to myself', parameterMap=None)
+[ Jumat, 08 - 06 - 2018 | 17:07:19 ] Expecting value: line 1 column 1 (char 0)
+[ Jumat, 08 - 06 - 2018 | 17:07:51 ] Expecting value: line 1 column 1 (char 0)
+[ Jumat, 08 - 06 - 2018 | 17:08:36 ] Expecting value: line 1 column 1 (char 0)
+[ Jumat, 08 - 06 - 2018 | 17:09:22 ] Expecting value: line 1 column 1 (char 0)
+[ Jumat, 08 - 06 - 2018 | 17:11:03 ] HTTPConnectionPool(host='api.secold.com', port=80): Max retries exceeded with url: /joox/cari/waking%20the%20demon (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0xe96d7330>: Failed to establish a new connection: [Errno 110] Connection timed out',))
+[ Jumat, 08 - 06 - 2018 | 17:11:53 ] HTTPConnectionPool(host='api.secold.com', port=80): Max retries exceeded with url: /joox/cari/bunga (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0xe96d7c30>: Failed to establish a new connection: [Errno 110] Connection timed out',))
+[ Jumat, 08 - 06 - 2018 | 17:12:52 ] Couldn't find a tree builder with the features you requested: html5lib. Do you need to install a parser library?
+[ Jumat, 08 - 06 - 2018 | 17:14:35 ] Couldn't find a tree builder with the features you requested: html5lib. Do you need to install a parser library?
+[ Jumat, 08 - 06 - 2018 | 18:01:13 ] 'data'
+[ Jumat, 08 - 06 - 2018 | 18:01:30 ] 'data'
+[ Jumat, 08 - 06 - 2018 | 18:01:44 ] Expecting value: line 1 column 1 (char 0)
+[ Jumat, 08 - 06 - 2018 | 18:02:24 ] Expecting value: line 1 column 1 (char 0)
+[ Jumat, 08 - 06 - 2018 | 21:56:53 ] encoding without a string argument
+[ Jumat, 08 - 06 - 2018 | 21:57:23 ] 
+[ Sabtu, 09 - 06 - 2018 | 03:30:22 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Sabtu, 09 - 06 - 2018 | 04:49:20 ] Upload image failure.
+[ Sabtu, 09 - 06 - 2018 | 04:49:34 ] Upload image failure.
+[ Sabtu, 09 - 06 - 2018 | 05:44:55 ] Couldn't find a tree builder with the features you requested: html5lib. Do you need to install a parser library?
+[ Sabtu, 09 - 06 - 2018 | 05:45:39 ] Couldn't find a tree builder with the features you requested: html5lib. Do you need to install a parser library?
+[ Sabtu, 09 - 06 - 2018 | 05:46:34 ] Couldn't find a tree builder with the features you requested: html5lib. Do you need to install a parser library?
+[ Sabtu, 09 - 06 - 2018 | 05:47:24 ] Couldn't find a tree builder with the features you requested: html5lib. Do you need to install a parser library?
+[ Sabtu, 09 - 06 - 2018 | 05:51:49 ] 'data'
+[ Sabtu, 09 - 06 - 2018 | 05:52:07 ] Expecting value: line 1 column 1 (char 0)
+[ Sabtu, 09 - 06 - 2018 | 05:52:23 ] Expecting value: line 1 column 1 (char 0)
+[ Sabtu, 09 - 06 - 2018 | 05:53:20 ] Expecting value: line 1 column 1 (char 0)
+[ Sabtu, 09 - 06 - 2018 | 06:12:21 ] name 'client' is not defined
+[ Sabtu, 09 - 06 - 2018 | 06:52:24 ] local variable 'group' referenced before assignment
+[ Sabtu, 09 - 06 - 2018 | 06:52:25 ] local variable 'group' referenced before assignment
+[ Sabtu, 09 - 06 - 2018 | 06:52:40 ] local variable 'gCreator' referenced before assignment
+[ Sabtu, 09 - 06 - 2018 | 06:52:41 ] local variable 'group' referenced before assignment
+[ Sabtu, 09 - 06 - 2018 | 06:52:41 ] local variable 'group' referenced before assignment
+[ Sabtu, 09 - 06 - 2018 | 06:52:41 ] local variable 'group' referenced before assignment
+[ Sabtu, 09 - 06 - 2018 | 06:52:41 ] local variable 'group' referenced before assignment
+[ Sabtu, 09 - 06 - 2018 | 06:53:04 ] local variable 'group' referenced before assignment
+[ Sabtu, 09 - 06 - 2018 | 07:06:56 ] 'displayName'
+[ Sabtu, 09 - 06 - 2018 | 07:07:26 ] 'displayName'
+[ Sabtu, 09 - 06 - 2018 | 07:09:48 ] 'displayName'
+[ Sabtu, 09 - 06 - 2018 | 07:27:24 ] local variable 'cond' referenced before assignment
+[ Sabtu, 09 - 06 - 2018 | 07:27:24 ] local variable 'cond' referenced before assignment
+[ Sabtu, 09 - 06 - 2018 | 07:27:24 ] local variable 'cond' referenced before assignment
+[ Sabtu, 09 - 06 - 2018 | 07:27:24 ] local variable 'cond' referenced before assignment
+[ Sabtu, 09 - 06 - 2018 | 07:27:24 ] local variable 'cond' referenced before assignment
+[ Sabtu, 09 - 06 - 2018 | 07:27:24 ] local variable 'cond' referenced before assignment
+[ Sabtu, 09 - 06 - 2018 | 07:27:24 ] local variable 'cond' referenced before assignment
+[ Sabtu, 09 - 06 - 2018 | 07:27:24 ] local variable 'cond' referenced before assignment
+[ Sabtu, 09 - 06 - 2018 | 07:27:24 ] local variable 'cond' referenced before assignment
+[ Sabtu, 09 - 06 - 2018 | 07:27:24 ] local variable 'cond' referenced before assignment
+[ Sabtu, 09 - 06 - 2018 | 07:27:24 ] local variable 'cond' referenced before assignment
+[ Sabtu, 09 - 06 - 2018 | 07:27:24 ] local variable 'cond' referenced before assignment
+[ Sabtu, 09 - 06 - 2018 | 07:27:24 ] local variable 'cond' referenced before assignment
+[ Sabtu, 09 - 06 - 2018 | 07:27:24 ] local variable 'cond' referenced before assignment
+[ Sabtu, 09 - 06 - 2018 | 07:27:24 ] local variable 'cond' referenced before assignment
+[ Sabtu, 09 - 06 - 2018 | 07:27:24 ] local variable 'cond' referenced before assignment
+[ Sabtu, 09 - 06 - 2018 | 07:27:25 ] local variable 'cond' referenced before assignment
+[ Sabtu, 09 - 06 - 2018 | 07:27:25 ] local variable 'cond' referenced before assignment
+[ Sabtu, 09 - 06 - 2018 | 07:27:25 ] local variable 'cond' referenced before assignment
+[ Sabtu, 09 - 06 - 2018 | 07:27:25 ] local variable 'cond' referenced before assignment
+[ Sabtu, 09 - 06 - 2018 | 07:27:25 ] local variable 'cond' referenced before assignment
+[ Sabtu, 09 - 06 - 2018 | 07:27:25 ] local variable 'cond' referenced before assignment
+[ Sabtu, 09 - 06 - 2018 | 07:27:25 ] local variable 'cond' referenced before assignment
+[ Sabtu, 09 - 06 - 2018 | 07:27:25 ] local variable 'cond' referenced before assignment
+[ Sabtu, 09 - 06 - 2018 | 07:27:25 ] local variable 'cond' referenced before assignment
+[ Sabtu, 09 - 06 - 2018 | 07:27:25 ] local variable 'cond' referenced before assignment
+[ Sabtu, 09 - 06 - 2018 | 07:27:25 ] local variable 'cond' referenced before assignment
+[ Sabtu, 09 - 06 - 2018 | 07:27:25 ] local variable 'cond' referenced before assignment
+[ Sabtu, 09 - 06 - 2018 | 07:27:25 ] local variable 'cond' referenced before assignment
+[ Sabtu, 09 - 06 - 2018 | 07:28:15 ] local variable 'cond' referenced before assignment
+[ Sabtu, 09 - 06 - 2018 | 07:29:02 ] local variable 'cond' referenced before assignment
+[ Sabtu, 09 - 06 - 2018 | 07:44:46 ] Couldn't find a tree builder with the features you requested: html5lib. Do you need to install a parser library?
+[ Sabtu, 09 - 06 - 2018 | 07:46:48 ] Couldn't find a tree builder with the features you requested: html5lib. Do you need to install a parser library?
+[ Sabtu, 09 - 06 - 2018 | 07:58:15 ] 'data'
+[ Sabtu, 09 - 06 - 2018 | 07:58:36 ] Expecting value: line 1 column 1 (char 0)
+[ Sabtu, 09 - 06 - 2018 | 07:58:57 ] Expecting value: line 1 column 1 (char 0)
+[ Sabtu, 09 - 06 - 2018 | 07:59:26 ] Expecting value: line 1 column 1 (char 0)
+[ Sabtu, 09 - 06 - 2018 | 08:02:51 ] 'data'
+[ Sabtu, 09 - 06 - 2018 | 08:03:35 ] 'data'
+[ Sabtu, 09 - 06 - 2018 | 08:31:17 ] HTTPConnectionPool(host='api.secold.com', port=80): Max retries exceeded with url: /joox/cari/bunga (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0xecf41210>: Failed to establish a new connection: [Errno 110] Connection timed out',))
+[ Sabtu, 09 - 06 - 2018 | 08:49:17 ] HTTPConnectionPool(host='api.secold.com', port=80): Max retries exceeded with url: /joox/cari/bunga (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0xe915deb0>: Failed to establish a new connection: [Errno 110] Connection timed out',))
+[ Sabtu, 09 - 06 - 2018 | 08:52:09 ] name 'line' is not defined
+[ Sabtu, 09 - 06 - 2018 | 14:26:35 ] Expecting value: line 1 column 1 (char 0)
+[ Sabtu, 09 - 06 - 2018 | 14:26:58 ] Expecting value: line 1 column 1 (char 0)
+[ Sabtu, 09 - 06 - 2018 | 14:32:14 ] Expecting value: line 1 column 1 (char 0)
+[ Sabtu, 09 - 06 - 2018 | 14:32:50 ] Expecting value: line 1 column 1 (char 0)
+[ Sabtu, 09 - 06 - 2018 | 14:34:44 ] Expecting value: line 1 column 1 (char 0)
+[ Sabtu, 09 - 06 - 2018 | 14:39:56 ] Expecting value: line 1 column 1 (char 0)
+[ Sabtu, 09 - 06 - 2018 | 14:40:37 ] Expecting value: line 1 column 1 (char 0)
+[ Sabtu, 09 - 06 - 2018 | 14:41:05 ] 0
+[ Sabtu, 09 - 06 - 2018 | 14:41:09 ] 0
+[ Sabtu, 09 - 06 - 2018 | 16:53:15 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 09 - 06 - 2018 | 16:53:31 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 09 - 06 - 2018 | 17:00:34 ] Upload image failure.
+[ Sabtu, 09 - 06 - 2018 | 17:00:48 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 09 - 06 - 2018 | 17:01:35 ] Upload image failure.
+[ Sabtu, 09 - 06 - 2018 | 17:03:05 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 09 - 06 - 2018 | 17:03:11 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 09 - 06 - 2018 | 17:07:37 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 09 - 06 - 2018 | 17:21:12 ] sendMessage() takes from 3 to 5 positional arguments but 6 were given
+[ Sabtu, 09 - 06 - 2018 | 17:23:02 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 09 - 06 - 2018 | 17:23:06 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 09 - 06 - 2018 | 17:23:15 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 09 - 06 - 2018 | 17:23:33 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 09 - 06 - 2018 | 17:23:36 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 09 - 06 - 2018 | 17:23:39 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 09 - 06 - 2018 | 17:24:50 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 09 - 06 - 2018 | 17:24:58 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 09 - 06 - 2018 | 17:25:24 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 09 - 06 - 2018 | 17:25:28 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 09 - 06 - 2018 | 17:25:34 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 09 - 06 - 2018 | 17:25:37 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 09 - 06 - 2018 | 17:25:40 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 09 - 06 - 2018 | 17:25:43 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 09 - 06 - 2018 | 17:25:46 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 09 - 06 - 2018 | 17:25:49 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 09 - 06 - 2018 | 17:25:51 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 09 - 06 - 2018 | 17:25:54 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 09 - 06 - 2018 | 17:25:57 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 09 - 06 - 2018 | 17:26:00 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 09 - 06 - 2018 | 17:26:43 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 09 - 06 - 2018 | 17:26:47 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 09 - 06 - 2018 | 17:26:50 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 09 - 06 - 2018 | 17:31:43 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 09 - 06 - 2018 | 17:32:13 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 09 - 06 - 2018 | 17:32:53 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 09 - 06 - 2018 | 17:37:13 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 09 - 06 - 2018 | 17:37:15 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 09 - 06 - 2018 | 17:37:18 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 09 - 06 - 2018 | 17:37:21 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 09 - 06 - 2018 | 17:37:24 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 09 - 06 - 2018 | 17:37:27 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 09 - 06 - 2018 | 17:37:29 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 09 - 06 - 2018 | 17:37:32 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 09 - 06 - 2018 | 17:39:35 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 09 - 06 - 2018 | 17:39:55 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 09 - 06 - 2018 | 17:39:58 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 09 - 06 - 2018 | 17:40:01 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 09 - 06 - 2018 | 17:40:04 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 09 - 06 - 2018 | 17:40:07 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 09 - 06 - 2018 | 18:09:27 ] Upload image failure.
+[ Sabtu, 09 - 06 - 2018 | 18:20:45 ] Upload image failure.
+[ Sabtu, 09 - 06 - 2018 | 19:49:43 ] [Errno 103] Software caused connection abort
+[ Sabtu, 09 - 06 - 2018 | 20:45:51 ] 'LINE' object has no attribute 'friends'
+[ Sabtu, 09 - 06 - 2018 | 20:48:50 ] 'LINE' object has no attribute 'friends'
+[ Sabtu, 09 - 06 - 2018 | 20:54:53 ] [Errno 103] Software caused connection abort
+[ Minggu, 10 - 06 - 2018 | 02:20:55 ] Expecting value: line 1 column 1 (char 0)
+[ Minggu, 10 - 06 - 2018 | 02:21:55 ] Expecting value: line 1 column 1 (char 0)
+[ Minggu, 10 - 06 - 2018 | 02:22:43 ] Expecting value: line 1 column 1 (char 0)
+[ Minggu, 10 - 06 - 2018 | 02:27:40 ] Expecting value: line 1 column 1 (char 0)
+[ Minggu, 10 - 06 - 2018 | 02:28:33 ] Expecting value: line 1 column 1 (char 0)
+[ Minggu, 10 - 06 - 2018 | 02:29:00 ] Expecting value: line 1 column 1 (char 0)
+[ Minggu, 10 - 06 - 2018 | 02:30:23 ] Expecting value: line 1 column 1 (char 0)
+[ Minggu, 10 - 06 - 2018 | 02:40:06 ] Upload image failure.
+[ Minggu, 10 - 06 - 2018 | 02:40:17 ] name 'line' is not defined
+[ Minggu, 10 - 06 - 2018 | 02:40:52 ] name 'line' is not defined
+[ Minggu, 10 - 06 - 2018 | 02:57:05 ] sendMessage() takes from 3 to 5 positional arguments but 6 were given
+[ Minggu, 10 - 06 - 2018 | 14:35:21 ] 1
+[ Minggu, 10 - 06 - 2018 | 14:43:38 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 14:43:41 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 14:43:45 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 14:43:48 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 14:43:51 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 14:43:59 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 14:44:15 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 14:44:25 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 14:44:43 ] 1
+[ Minggu, 10 - 06 - 2018 | 14:45:49 ] TalkException(code=73, reason='Prevented join by ticket: 1474095244, 726326236', parameterMap=None)
+[ Minggu, 10 - 06 - 2018 | 14:45:51 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 14:45:56 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 14:45:57 ] 1
+[ Minggu, 10 - 06 - 2018 | 14:46:10 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 14:52:57 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 14:53:32 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 14:53:38 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 14:55:43 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 14:55:44 ] 1
+[ Minggu, 10 - 06 - 2018 | 14:56:03 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 14:57:25 ] 1
+[ Minggu, 10 - 06 - 2018 | 15:26:38 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Minggu, 10 - 06 - 2018 | 15:26:42 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Minggu, 10 - 06 - 2018 | 15:30:37 ] Upload image failure.
+[ Minggu, 10 - 06 - 2018 | 15:31:01 ] Upload image failure.
+[ Minggu, 10 - 06 - 2018 | 15:31:52 ] Upload image failure.
+[ Minggu, 10 - 06 - 2018 | 15:31:54 ] 1
+[ Minggu, 10 - 06 - 2018 | 15:32:32 ] 1
+[ Minggu, 10 - 06 - 2018 | 15:49:58 ] 1
+[ Minggu, 10 - 06 - 2018 | 16:02:38 ] 1
+[ Minggu, 10 - 06 - 2018 | 16:04:28 ] 1
+[ Minggu, 10 - 06 - 2018 | 16:53:33 ] local variable 'url' referenced before assignment
+[ Minggu, 10 - 06 - 2018 | 16:56:12 ] local variable 'location' referenced before assignment
+[ Minggu, 10 - 06 - 2018 | 16:57:48 ] local variable 'location' referenced before assignment
+[ Minggu, 10 - 06 - 2018 | 16:59:35 ] local variable 'location' referenced before assignment
+[ Minggu, 10 - 06 - 2018 | 16:59:42 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 17:13:50 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 17:13:56 ] 'azhar'
+[ Minggu, 10 - 06 - 2018 | 17:14:59 ] 'isya'
+[ Minggu, 10 - 06 - 2018 | 17:46:09 ] Upload image failure.
+[ Minggu, 10 - 06 - 2018 | 17:52:12 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 17:58:32 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 18:02:00 ] 'date'
+[ Minggu, 10 - 06 - 2018 | 18:03:22 ] 'date'
+[ Minggu, 10 - 06 - 2018 | 18:04:30 ] 'timezone'
+[ Minggu, 10 - 06 - 2018 | 18:06:50 ] 'date'
+[ Minggu, 10 - 06 - 2018 | 18:08:58 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 18:09:22 ] Upload image failure.
+[ Minggu, 10 - 06 - 2018 | 18:13:35 ] Upload image failure.
+[ Minggu, 10 - 06 - 2018 | 18:14:44 ] Upload image failure.
+[ Minggu, 10 - 06 - 2018 | 18:15:17 ] Upload image failure.
+[ Minggu, 10 - 06 - 2018 | 18:15:25 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 18:15:29 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 18:15:33 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 18:15:56 ] Upload image failure.
+[ Minggu, 10 - 06 - 2018 | 18:16:03 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 18:16:23 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 18:16:30 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 18:16:35 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 18:16:39 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 18:16:45 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 18:16:53 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 18:17:02 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 18:17:19 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 18:17:29 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 18:17:43 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 18:17:47 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 18:17:50 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 18:17:54 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 18:17:57 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 18:18:02 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 18:18:06 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 18:18:10 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 18:18:38 ] Upload image failure.
+[ Minggu, 10 - 06 - 2018 | 18:18:49 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 18:21:28 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 18:25:19 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 18:25:51 ] Upload image failure.
+[ Minggu, 10 - 06 - 2018 | 18:28:18 ] Upload image failure.
+[ Minggu, 10 - 06 - 2018 | 18:30:29 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 18:30:33 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 18:30:36 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 18:32:42 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Minggu, 10 - 06 - 2018 | 18:34:28 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 18:34:31 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 18:34:35 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 18:34:42 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 18:35:05 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 18:35:09 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 18:35:13 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 18:35:17 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 18:35:21 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 18:35:37 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 18:36:00 ] TalkException(code=73, reason='Prevented join by ticket: 1474095244, 742201754', parameterMap=None)
+[ Minggu, 10 - 06 - 2018 | 18:36:13 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 18:39:07 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 18:39:10 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 18:40:40 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 18:40:54 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 19:00:52 ] Upload image failure.
+[ Minggu, 10 - 06 - 2018 | 19:02:25 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Minggu, 10 - 06 - 2018 | 19:51:48 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 19:51:51 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 19:51:54 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 19:51:57 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 19:52:00 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 19:52:03 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 19:52:06 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 19:52:09 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 19:52:12 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 19:52:17 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 19:52:19 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 19:55:16 ] Upload image failure.
+[ Minggu, 10 - 06 - 2018 | 20:00:44 ] Upload image failure.
+[ Minggu, 10 - 06 - 2018 | 20:01:28 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 20:04:06 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 20:07:41 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 20:08:44 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Minggu, 10 - 06 - 2018 | 20:10:05 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 20:11:30 ] TalkException(code=73, reason='Group size over limit : 1474095244, 602670421', parameterMap=None)
+[ Minggu, 10 - 06 - 2018 | 20:16:54 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 20:17:14 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 20:19:01 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 20:22:04 ] TalkException(code=73, reason='Group size over limit : 1474095244, 602670421', parameterMap=None)
+[ Minggu, 10 - 06 - 2018 | 20:25:58 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Minggu, 10 - 06 - 2018 | 20:30:05 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 20:31:39 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 20:59:51 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 21:02:56 ] Upload image failure.
+[ Minggu, 10 - 06 - 2018 | 21:03:13 ] Upload image failure.
+[ Minggu, 10 - 06 - 2018 | 21:03:21 ] Upload image failure.
+[ Minggu, 10 - 06 - 2018 | 21:03:29 ] Upload image failure.
+[ Minggu, 10 - 06 - 2018 | 21:03:39 ] Upload image failure.
+[ Minggu, 10 - 06 - 2018 | 21:04:16 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 21:04:41 ] Upload image failure.
+[ Minggu, 10 - 06 - 2018 | 21:04:51 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 21:04:57 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 21:05:03 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 21:05:09 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 21:05:15 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 21:05:58 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Minggu, 10 - 06 - 2018 | 21:08:12 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 21:08:15 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 21:08:18 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 21:08:31 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 21:08:35 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 21:08:38 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 21:08:42 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 21:09:08 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 10 - 06 - 2018 | 21:12:00 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Minggu, 10 - 06 - 2018 | 21:13:27 ] [Errno 101] Network is unreachable
+[ Minggu, 10 - 06 - 2018 | 21:13:28 ] [Errno 7] No address associated with hostname
+[ Minggu, 10 - 06 - 2018 | 21:13:28 ] [Errno 7] No address associated with hostname
+[ Minggu, 10 - 06 - 2018 | 21:13:28 ] [Errno 7] No address associated with hostname
+[ Minggu, 10 - 06 - 2018 | 21:13:28 ] [Errno 7] No address associated with hostname
+[ Minggu, 10 - 06 - 2018 | 21:13:28 ] [Errno 7] No address associated with hostname
+[ Minggu, 10 - 06 - 2018 | 21:13:28 ] [Errno 7] No address associated with hostname
+[ Minggu, 10 - 06 - 2018 | 21:13:28 ] [Errno 7] No address associated with hostname
+[ Minggu, 10 - 06 - 2018 | 21:13:28 ] [Errno 7] No address associated with hostname
+[ Minggu, 10 - 06 - 2018 | 21:13:28 ] [Errno 7] No address associated with hostname
+[ Minggu, 10 - 06 - 2018 | 21:13:28 ] [Errno 7] No address associated with hostname
+[ Minggu, 10 - 06 - 2018 | 21:13:28 ] [Errno 7] No address associated with hostname
+[ Minggu, 10 - 06 - 2018 | 21:13:28 ] [Errno 7] No address associated with hostname
+[ Minggu, 10 - 06 - 2018 | 21:13:28 ] [Errno 7] No address associated with hostname
+[ Minggu, 10 - 06 - 2018 | 21:13:28 ] [Errno 7] No address associated with hostname
+[ Minggu, 10 - 06 - 2018 | 21:13:28 ] [Errno 7] No address associated with hostname
+[ Minggu, 10 - 06 - 2018 | 21:13:28 ] [Errno 7] No address associated with hostname
+[ Minggu, 10 - 06 - 2018 | 21:13:29 ] [Errno 7] No address associated with hostname
+[ Minggu, 10 - 06 - 2018 | 21:13:29 ] [Errno 7] No address associated with hostname
+[ Minggu, 10 - 06 - 2018 | 21:13:29 ] [Errno 7] No address associated with hostname
+[ Minggu, 10 - 06 - 2018 | 21:13:29 ] [Errno 7] No address associated with hostname
+[ Senin, 11 - 06 - 2018 | 02:21:44 ] 0
+[ Senin, 11 - 06 - 2018 | 02:22:32 ] 0
+[ Senin, 11 - 06 - 2018 | 04:51:56 ] local variable 'search' referenced before assignment
+[ Senin, 11 - 06 - 2018 | 04:53:02 ] 0
+[ Senin, 11 - 06 - 2018 | 05:15:28 ] 'result'
+[ Senin, 11 - 06 - 2018 | 05:16:11 ] list indices must be integers or slices, not str
+[ Senin, 11 - 06 - 2018 | 05:17:05 ] list indices must be integers or slices, not str
+[ Senin, 11 - 06 - 2018 | 05:24:34 ] 'location'
+[ Senin, 11 - 06 - 2018 | 05:26:20 ] list indices must be integers or slices, not str
+[ Senin, 11 - 06 - 2018 | 05:26:25 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 11 - 06 - 2018 | 05:27:28 ] list indices must be integers or slices, not str
+[ Senin, 11 - 06 - 2018 | 05:30:28 ] list indices must be integers or slices, not str
+[ Senin, 11 - 06 - 2018 | 05:39:46 ] 'geometry'
+[ Senin, 11 - 06 - 2018 | 05:40:18 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 11 - 06 - 2018 | 05:40:24 ] 'geometry'
+[ Senin, 11 - 06 - 2018 | 05:42:41 ] 'geometry'
+[ Senin, 11 - 06 - 2018 | 05:48:01 ] 'geometry'
+[ Senin, 11 - 06 - 2018 | 05:49:15 ] 'geometry'
+[ Senin, 11 - 06 - 2018 | 06:13:34 ] list indices must be integers or slices, not str
+[ Senin, 11 - 06 - 2018 | 06:14:13 ] list indices must be integers or slices, not str
+[ Senin, 11 - 06 - 2018 | 06:16:22 ] list indices must be integers or slices, not str
+[ Senin, 11 - 06 - 2018 | 06:17:39 ] list indices must be integers or slices, not str
+[ Senin, 11 - 06 - 2018 | 06:19:21 ] list indices must be integers or slices, not str
+[ Senin, 11 - 06 - 2018 | 06:20:06 ] list indices must be integers or slices, not str
+[ Senin, 11 - 06 - 2018 | 06:20:27 ] 'geometry'
+[ Senin, 11 - 06 - 2018 | 06:21:10 ] name 'link' is not defined
+[ Senin, 11 - 06 - 2018 | 06:27:13 ] list indices must be integers or slices, not str
+[ Senin, 11 - 06 - 2018 | 06:29:52 ] unhashable type: 'slice'
+[ Senin, 11 - 06 - 2018 | 06:31:27 ] 'formatted_address'
+[ Senin, 11 - 06 - 2018 | 07:27:00 ] 'formatted_address'
+[ Senin, 11 - 06 - 2018 | 07:28:39 ] list indices must be integers or slices, not str
+[ Senin, 11 - 06 - 2018 | 07:29:19 ] list indices must be integers or slices, not list
+[ Senin, 11 - 06 - 2018 | 07:36:56 ] 'formatted_address'
+[ Senin, 11 - 06 - 2018 | 07:38:18 ] 'result'
+[ Senin, 11 - 06 - 2018 | 07:44:54 ] list indices must be integers or slices, not str
+[ Senin, 11 - 06 - 2018 | 07:45:57 ] list indices must be integers or slices, not str
+[ Senin, 11 - 06 - 2018 | 07:52:39 ] 0
+[ Senin, 11 - 06 - 2018 | 07:53:12 ] 1
+[ Senin, 11 - 06 - 2018 | 07:53:38 ] 2
+[ Senin, 11 - 06 - 2018 | 08:00:50 ] 'dict' object has no attribute 'replace'
+[ Senin, 11 - 06 - 2018 | 08:01:54 ] 'dict' object has no attribute 'replace'
+[ Senin, 11 - 06 - 2018 | 08:02:38 ] 0
+[ Senin, 11 - 06 - 2018 | 08:03:13 ] 1
+[ Senin, 11 - 06 - 2018 | 08:04:50 ] 0
+[ Senin, 11 - 06 - 2018 | 08:08:26 ] list indices must be integers or slices, not str
+[ Senin, 11 - 06 - 2018 | 08:12:10 ] name 'results' is not defined
+[ Senin, 11 - 06 - 2018 | 08:13:30 ] 'Response' object is not subscriptable
+[ Senin, 11 - 06 - 2018 | 08:15:17 ] 'Response' object is not subscriptable
+[ Senin, 11 - 06 - 2018 | 08:36:30 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 11 - 06 - 2018 | 08:42:23 ] bad operand type for unary +: 'str'
+[ Senin, 11 - 06 - 2018 | 08:47:50 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 11 - 06 - 2018 | 08:51:49 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 11 - 06 - 2018 | 08:54:48 ] 'Response' object is not subscriptable
+[ Senin, 11 - 06 - 2018 | 08:55:43 ] 'Response' object is not subscriptable
+[ Senin, 11 - 06 - 2018 | 08:58:23 ] list indices must be integers or slices, not str
+[ Senin, 11 - 06 - 2018 | 08:59:40 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 11 - 06 - 2018 | 08:59:41 ] 'list' object is not callable
+[ Senin, 11 - 06 - 2018 | 09:00:32 ] decoding to str: need a bytes-like object, list found
+[ Senin, 11 - 06 - 2018 | 09:12:46 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Senin, 11 - 06 - 2018 | 09:13:39 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Senin, 11 - 06 - 2018 | 09:13:51 ] Upload image failure.
+[ Senin, 11 - 06 - 2018 | 09:14:30 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 11 - 06 - 2018 | 09:14:37 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 11 - 06 - 2018 | 09:14:39 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 11 - 06 - 2018 | 09:14:42 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 11 - 06 - 2018 | 09:14:49 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 11 - 06 - 2018 | 09:14:52 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 11 - 06 - 2018 | 09:14:55 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 11 - 06 - 2018 | 09:14:58 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 11 - 06 - 2018 | 09:15:47 ] Upload image failure.
+[ Senin, 11 - 06 - 2018 | 09:15:52 ] Upload image failure.
+[ Senin, 11 - 06 - 2018 | 09:17:06 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 11 - 06 - 2018 | 09:21:36 ] Invalid URL '<Response [200]>': No schema supplied. Perhaps you meant http://<Response [200]>?
+[ Senin, 11 - 06 - 2018 | 09:21:45 ] Upload image failure.
+[ Senin, 11 - 06 - 2018 | 09:21:52 ] Upload image failure.
+[ Senin, 11 - 06 - 2018 | 09:22:00 ] Upload image failure.
+[ Senin, 11 - 06 - 2018 | 09:24:02 ] Invalid URL '<Response [200]>': No schema supplied. Perhaps you meant http://<Response [200]>?
+[ Senin, 11 - 06 - 2018 | 09:24:34 ] Upload image failure.
+[ Senin, 11 - 06 - 2018 | 09:27:20 ] Invalid URL '<Response [200]>': No schema supplied. Perhaps you meant http://<Response [200]>?
+[ Senin, 11 - 06 - 2018 | 09:27:39 ] Upload image failure.
+[ Senin, 11 - 06 - 2018 | 09:28:00 ] Invalid URL '<Response [200]>': No schema supplied. Perhaps you meant http://<Response [200]>?
+[ Senin, 11 - 06 - 2018 | 09:48:54 ] local variable 'dee1' referenced before assignment
+[ Senin, 11 - 06 - 2018 | 09:49:49 ] list indices must be integers or slices, not str
+[ Senin, 11 - 06 - 2018 | 14:59:02 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 11 - 06 - 2018 | 15:01:16 ] Expecting value: line 1 column 1 (char 0)
+[ Senin, 11 - 06 - 2018 | 15:01:36 ] Expecting value: line 1 column 1 (char 0)
+[ Senin, 11 - 06 - 2018 | 15:07:43 ] 0
+[ Senin, 11 - 06 - 2018 | 15:30:23 ] 0
+[ Senin, 11 - 06 - 2018 | 15:31:05 ] local variable 'search' referenced before assignment
+[ Senin, 11 - 06 - 2018 | 15:31:48 ] 0
+[ Senin, 11 - 06 - 2018 | 15:36:10 ] 'info'
+[ Senin, 11 - 06 - 2018 | 15:37:02 ] 'alamat'
+[ Senin, 11 - 06 - 2018 | 15:37:56 ] list indices must be integers or slices, not str
+[ Senin, 11 - 06 - 2018 | 15:48:23 ] 'alamat'
+[ Senin, 11 - 06 - 2018 | 15:49:56 ] Upload image failure.
+[ Senin, 11 - 06 - 2018 | 15:51:15 ] 'alamat'
+[ Senin, 11 - 06 - 2018 | 15:53:19 ] 'alamat'
+[ Senin, 11 - 06 - 2018 | 15:54:34 ] ('alamat', 'types')
+[ Senin, 11 - 06 - 2018 | 15:55:37 ] list indices must be integers or slices, not str
+[ Senin, 11 - 06 - 2018 | 16:06:01 ] ('alamat', 'types')
+[ Senin, 11 - 06 - 2018 | 16:11:08 ] 0
+[ Senin, 11 - 06 - 2018 | 16:14:12 ] 0
+[ Senin, 11 - 06 - 2018 | 16:15:55 ] 1
+[ Senin, 11 - 06 - 2018 | 16:17:39 ] 2
+[ Senin, 11 - 06 - 2018 | 16:31:12 ] Invalid URL '<Response [200]>': No schema supplied. Perhaps you meant http://<Response [200]>?
+[ Senin, 11 - 06 - 2018 | 16:37:07 ] Invalid URL '<Response [200]>': No schema supplied. Perhaps you meant http://<Response [200]>?
+[ Senin, 11 - 06 - 2018 | 17:14:18 ] Expecting value: line 1 column 1 (char 0)
+[ Senin, 11 - 06 - 2018 | 17:17:43 ] Invalid URL '<Response [200]>': No schema supplied. Perhaps you meant http://<Response [200]>?
+[ Senin, 11 - 06 - 2018 | 17:17:51 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 12 - 06 - 2018 | 04:42:16 ] getGroup() missing 1 required positional argument: 'groupId'
+[ Selasa, 12 - 06 - 2018 | 04:42:43 ] getGroup() missing 1 required positional argument: 'groupId'
+[ Selasa, 12 - 06 - 2018 | 04:43:21 ] local variable 'group' referenced before assignment
+[ Selasa, 12 - 06 - 2018 | 04:44:55 ] local variable 'profile' referenced before assignment
+[ Selasa, 12 - 06 - 2018 | 04:45:43 ] local variable 'path' referenced before assignment
+[ Selasa, 12 - 06 - 2018 | 05:00:00 ] name 'acil' is not defined
+[ Selasa, 12 - 06 - 2018 | 06:19:49 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 12 - 06 - 2018 | 18:07:03 ] 'pembaca'
+[ Selasa, 12 - 06 - 2018 | 18:07:04 ] 'pembaca'
+[ Selasa, 12 - 06 - 2018 | 18:07:04 ] 'pembaca'
+[ Selasa, 12 - 06 - 2018 | 18:07:04 ] 'pembaca'
+[ Selasa, 12 - 06 - 2018 | 18:07:15 ] 'pembaca'
+[ Selasa, 12 - 06 - 2018 | 18:07:23 ] 'Message' object has no attribute 'from_'
+[ Selasa, 12 - 06 - 2018 | 18:10:04 ] 'Message' object has no attribute 'from_'
+[ Selasa, 12 - 06 - 2018 | 18:11:15 ] local variable 'sender' referenced before assignment
+[ Selasa, 12 - 06 - 2018 | 20:28:59 ] 'LINE' object has no attribute 'sendText'
+[ Selasa, 12 - 06 - 2018 | 20:59:07 ] 'type' object is not subscriptable
+[ Selasa, 12 - 06 - 2018 | 21:46:36 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 12 - 06 - 2018 | 22:19:01 ] name 'settings' is not defined
+[ Selasa, 12 - 06 - 2018 | 22:19:49 ] 'userAgent'
+[ Selasa, 12 - 06 - 2018 | 22:27:02 ] ('Connection aborted.', ConnectionAbortedError(103, 'Software caused connection abort'))
+[ Selasa, 12 - 06 - 2018 | 22:34:21 ] Expecting value: line 1 column 1 (char 0)
+[ Selasa, 12 - 06 - 2018 | 22:34:31 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 12 - 06 - 2018 | 22:34:35 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 12 - 06 - 2018 | 22:37:01 ] name 'web' is not defined
+[ Selasa, 12 - 06 - 2018 | 22:38:18 ] 'str' object has no attribute 'text'
+[ Selasa, 12 - 06 - 2018 | 22:42:23 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 12 - 06 - 2018 | 22:42:24 ] name 'request' is not defined
+[ Selasa, 12 - 06 - 2018 | 22:44:46 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 12 - 06 - 2018 | 22:44:46 ] name 'request' is not defined
+[ Selasa, 12 - 06 - 2018 | 22:44:46 ] name 'request' is not defined
+[ Selasa, 12 - 06 - 2018 | 22:45:21 ] name 'mag' is not defined
+[ Selasa, 12 - 06 - 2018 | 22:49:20 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 12 - 06 - 2018 | 22:49:26 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 12 - 06 - 2018 | 22:49:30 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 12 - 06 - 2018 | 22:49:34 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 12 - 06 - 2018 | 22:49:37 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 12 - 06 - 2018 | 22:49:41 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 12 - 06 - 2018 | 22:49:47 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 12 - 06 - 2018 | 22:49:54 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 12 - 06 - 2018 | 22:49:58 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 12 - 06 - 2018 | 22:50:01 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 12 - 06 - 2018 | 23:22:51 ] ('Connection aborted.', BrokenPipeError(32, 'Broken pipe'))
+[ Selasa, 12 - 06 - 2018 | 23:22:55 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 12 - 06 - 2018 | 23:29:23 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 12 - 06 - 2018 | 23:50:43 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 12 - 06 - 2018 | 23:56:25 ] must be str, not NoneType
+[ Selasa, 12 - 06 - 2018 | 23:56:30 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Selasa, 12 - 06 - 2018 | 23:56:34 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Rabu, 13 - 06 - 2018 | 02:02:42 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 13 - 06 - 2018 | 02:03:54 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 13 - 06 - 2018 | 02:03:58 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 13 - 06 - 2018 | 02:04:01 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 13 - 06 - 2018 | 02:04:04 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 13 - 06 - 2018 | 02:04:07 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 13 - 06 - 2018 | 02:04:11 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 13 - 06 - 2018 | 02:28:31 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 13 - 06 - 2018 | 02:28:38 ] name 'call' is not defined
+[ Rabu, 13 - 06 - 2018 | 03:31:48 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Rabu, 13 - 06 - 2018 | 03:32:22 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Rabu, 13 - 06 - 2018 | 03:33:29 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Rabu, 13 - 06 - 2018 | 03:34:10 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Rabu, 13 - 06 - 2018 | 03:47:09 ] 'str' object is not callable
+[ Rabu, 13 - 06 - 2018 | 03:47:56 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Rabu, 13 - 06 - 2018 | 03:49:15 ] tuple index out of range
+[ Rabu, 13 - 06 - 2018 | 03:49:53 ] 'str' object is not callable
+[ Rabu, 13 - 06 - 2018 | 03:58:40 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Rabu, 13 - 06 - 2018 | 04:03:54 ] 'type' object is not subscriptable
+[ Rabu, 13 - 06 - 2018 | 04:06:07 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Rabu, 13 - 06 - 2018 | 04:06:26 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 13 - 06 - 2018 | 04:09:23 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Rabu, 13 - 06 - 2018 | 04:11:21 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Rabu, 13 - 06 - 2018 | 04:13:05 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Rabu, 13 - 06 - 2018 | 04:17:57 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Rabu, 13 - 06 - 2018 | 04:20:17 ] 'dict' object has no attribute 'format'
+[ Rabu, 13 - 06 - 2018 | 04:20:39 ] 'dict' object has no attribute 'format'
+[ Rabu, 13 - 06 - 2018 | 04:21:27 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Rabu, 13 - 06 - 2018 | 04:22:59 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Rabu, 13 - 06 - 2018 | 04:29:35 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Rabu, 13 - 06 - 2018 | 04:39:48 ] TalkException(code=82, reason='types mismatch', parameterMap={})
+[ Rabu, 13 - 06 - 2018 | 04:39:59 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 13 - 06 - 2018 | 04:40:03 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 13 - 06 - 2018 | 04:40:06 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 13 - 06 - 2018 | 04:40:09 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 13 - 06 - 2018 | 04:44:10 ] TalkException(code=82, reason='types mismatch', parameterMap={})
+[ Rabu, 13 - 06 - 2018 | 05:04:48 ] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[ Rabu, 13 - 06 - 2018 | 05:05:30 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 13 - 06 - 2018 | 05:05:36 ] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[ Rabu, 13 - 06 - 2018 | 05:07:48 ] unhashable type: 'list'
+[ Rabu, 13 - 06 - 2018 | 05:08:39 ] unhashable type: 'list'
+[ Rabu, 13 - 06 - 2018 | 05:09:29 ] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[ Rabu, 13 - 06 - 2018 | 05:11:42 ] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[ Rabu, 13 - 06 - 2018 | 05:12:59 ] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[ Rabu, 13 - 06 - 2018 | 05:16:46 ] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[ Rabu, 13 - 06 - 2018 | 05:22:53 ] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[ Rabu, 13 - 06 - 2018 | 05:23:03 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Rabu, 13 - 06 - 2018 | 05:24:44 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Rabu, 13 - 06 - 2018 | 05:29:04 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Rabu, 13 - 06 - 2018 | 05:31:49 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Rabu, 13 - 06 - 2018 | 05:33:22 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Rabu, 13 - 06 - 2018 | 06:00:01 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 13 - 06 - 2018 | 08:36:55 ] local variable 'url' referenced before assignment
+[ Rabu, 13 - 06 - 2018 | 08:48:24 ] sendMessage() takes from 3 to 5 positional arguments but 6 were given
+[ Rabu, 13 - 06 - 2018 | 08:53:50 ] list indices must be integers or slices, not str
+[ Rabu, 13 - 06 - 2018 | 09:08:06 ] list indices must be integers or slices, not str
+[ Rabu, 13 - 06 - 2018 | 09:09:51 ] list indices must be integers or slices, not str
+[ Rabu, 13 - 06 - 2018 | 09:11:34 ] list indices must be integers or slices, not str
+[ Rabu, 13 - 06 - 2018 | 16:29:08 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 13 - 06 - 2018 | 16:47:00 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 13 - 06 - 2018 | 16:47:55 ] 'bool' object is not callable
+[ Rabu, 13 - 06 - 2018 | 16:50:51 ] 'bool' object is not callable
+[ Kamis, 14 - 06 - 2018 | 03:00:20 ] Expecting value: line 1 column 1 (char 0)
+[ Kamis, 14 - 06 - 2018 | 03:40:32 ] TalkException(code=73, reason='Prevented join by ticket: 1477054471, 744253879', parameterMap=None)
+[ Sabtu, 16 - 06 - 2018 | 04:14:29 ] name 'bMid' is not defined
+[ Sabtu, 16 - 06 - 2018 | 04:31:31 ] name 'bMid' is not defined
+[ Sabtu, 16 - 06 - 2018 | 04:40:03 ] name 'dna2' is not defined
+[ Sabtu, 16 - 06 - 2018 | 04:40:09 ] 'blacklist'
+[ Sabtu, 16 - 06 - 2018 | 04:40:42 ] 'whitelist'
+[ Sabtu, 16 - 06 - 2018 | 04:47:02 ] name 'dna2' is not defined
+[ Sabtu, 16 - 06 - 2018 | 04:47:38 ] TalkException(code=10, reason='You are not related to group: c51d58d65a568a47abb6dfedd964e2015', parameterMap={'2': 'c51d58d65a568a47abb6dfedd964e2015'})
+[ Sabtu, 16 - 06 - 2018 | 04:50:26 ] name 'dna2' is not defined
+[ Sabtu, 16 - 06 - 2018 | 04:50:32 ] name 'bMid' is not defined
+[ Sabtu, 16 - 06 - 2018 | 04:51:04 ] TalkException(code=10, reason='You are not related to group: c51d58d65a568a47abb6dfedd964e2015', parameterMap={'2': 'c51d58d65a568a47abb6dfedd964e2015'})
+[ Sabtu, 16 - 06 - 2018 | 04:53:20 ] name 'sendContact' is not defined
+[ Sabtu, 16 - 06 - 2018 | 04:53:42 ] TalkException(code=10, reason='You are not related to group: c51d58d65a568a47abb6dfedd964e2015', parameterMap={'2': 'c51d58d65a568a47abb6dfedd964e2015'})
+[ Sabtu, 16 - 06 - 2018 | 04:56:32 ] name 'sendContact' is not defined
+[ Sabtu, 16 - 06 - 2018 | 04:56:56 ] TalkException(code=10, reason='You are not related to group: c51d58d65a568a47abb6dfedd964e2015', parameterMap={'2': 'c51d58d65a568a47abb6dfedd964e2015'})
+[ Sabtu, 16 - 06 - 2018 | 05:01:30 ] name 'sendContact' is not defined
+[ Sabtu, 16 - 06 - 2018 | 05:01:41 ] name 'cMid' is not defined
+[ Sabtu, 16 - 06 - 2018 | 05:02:05 ] name 'cMid' is not defined
+[ Sabtu, 16 - 06 - 2018 | 05:03:52 ] name 'cMid' is not defined
+[ Sabtu, 16 - 06 - 2018 | 05:04:01 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 16 - 06 - 2018 | 05:05:21 ] TalkException(code=10, reason='You are not related to group: c51d58d65a568a47abb6dfedd964e2015', parameterMap={'2': 'c51d58d65a568a47abb6dfedd964e2015'})
+[ Sabtu, 16 - 06 - 2018 | 05:09:09 ] name 'dna3' is not defined
+[ Sabtu, 16 - 06 - 2018 | 05:09:20 ] name 'cMid' is not defined
+[ Sabtu, 16 - 06 - 2018 | 05:10:03 ] TalkException(code=10, reason='You are not related to group: c51d58d65a568a47abb6dfedd964e2015', parameterMap={'2': 'c51d58d65a568a47abb6dfedd964e2015'})
+[ Sabtu, 16 - 06 - 2018 | 05:58:54 ] name 'sendContact' is not defined
+[ Sabtu, 16 - 06 - 2018 | 06:00:47 ] TalkException(code=10, reason='You are not related to group: c51d58d65a568a47abb6dfedd964e2015', parameterMap={'2': 'c51d58d65a568a47abb6dfedd964e2015'})
+[ Sabtu, 16 - 06 - 2018 | 06:03:02 ] name 'cMid' is not defined
+[ Sabtu, 16 - 06 - 2018 | 07:43:47 ] name 'dna3' is not defined
+[ Minggu, 17 - 06 - 2018 | 02:56:25 ] 'link'
+[ Minggu, 17 - 06 - 2018 | 02:58:04 ] 'tittle'
+[ Minggu, 17 - 06 - 2018 | 02:59:06 ] 'title'
+[ Minggu, 17 - 06 - 2018 | 03:00:30 ] local variable 'cover' referenced before assignment
+[ Minggu, 17 - 06 - 2018 | 03:09:20 ] Upload image failure.
+[ Minggu, 17 - 06 - 2018 | 03:27:53 ] ('Connection aborted.', BrokenPipeError(32, 'Broken pipe'))
+[ Minggu, 17 - 06 - 2018 | 03:41:50 ] ('Connection aborted.', BrokenPipeError(32, 'Broken pipe'))
+[ Minggu, 17 - 06 - 2018 | 03:43:28 ] ('Connection aborted.', BrokenPipeError(32, 'Broken pipe'))
+[ Minggu, 17 - 06 - 2018 | 03:45:59 ] ('Connection aborted.', BrokenPipeError(32, 'Broken pipe'))
+[ Minggu, 17 - 06 - 2018 | 03:50:58 ] ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ Minggu, 17 - 06 - 2018 | 03:53:08 ] ('Connection aborted.', BrokenPipeError(32, 'Broken pipe'))
+[ Minggu, 17 - 06 - 2018 | 03:59:36 ] ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ Minggu, 17 - 06 - 2018 | 04:06:09 ] ('Connection aborted.', BrokenPipeError(32, 'Broken pipe'))
+[ Minggu, 17 - 06 - 2018 | 04:08:33 ] ('Connection aborted.', BrokenPipeError(32, 'Broken pipe'))
+[ Minggu, 17 - 06 - 2018 | 04:11:34 ] ('Connection aborted.', BrokenPipeError(32, 'Broken pipe'))
+[ Minggu, 17 - 06 - 2018 | 04:13:59 ] ('Connection aborted.', BrokenPipeError(32, 'Broken pipe'))
+[ Minggu, 17 - 06 - 2018 | 04:15:51 ] ('Connection aborted.', BrokenPipeError(32, 'Broken pipe'))
+[ Minggu, 17 - 06 - 2018 | 04:17:09 ] ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ Minggu, 17 - 06 - 2018 | 04:19:44 ] ('Connection aborted.', BrokenPipeError(32, 'Broken pipe'))
+[ Minggu, 17 - 06 - 2018 | 04:26:12 ] ('Connection aborted.', BrokenPipeError(32, 'Broken pipe'))
+[ Minggu, 17 - 06 - 2018 | 04:29:28 ] Upload image failure.
+[ Minggu, 17 - 06 - 2018 | 04:29:52 ] Upload image failure.
+[ Minggu, 17 - 06 - 2018 | 07:20:01 ] Expecting value: line 1 column 1 (char 0)
+[ Minggu, 17 - 06 - 2018 | 07:25:42 ] ('Connection aborted.', BrokenPipeError(32, 'Broken pipe'))
+[ Minggu, 17 - 06 - 2018 | 07:32:03 ] ('Connection aborted.', BrokenPipeError(32, 'Broken pipe'))
+[ Minggu, 17 - 06 - 2018 | 07:36:10 ] ('Connection aborted.', BrokenPipeError(32, 'Broken pipe'))
+[ Minggu, 17 - 06 - 2018 | 07:43:13 ] ('Connection aborted.', BrokenPipeError(32, 'Broken pipe'))
+[ Minggu, 17 - 06 - 2018 | 07:47:23 ] ('Connection aborted.', BrokenPipeError(32, 'Broken pipe'))
+[ Minggu, 17 - 06 - 2018 | 08:02:20 ] ('Connection aborted.', BrokenPipeError(32, 'Broken pipe'))
+[ Minggu, 17 - 06 - 2018 | 08:05:03 ] ('Connection aborted.', BrokenPipeError(32, 'Broken pipe'))
+[ Minggu, 17 - 06 - 2018 | 08:05:15 ] Upload image failure.
+[ Minggu, 17 - 06 - 2018 | 08:05:26 ] Upload image failure.
+[ Minggu, 17 - 06 - 2018 | 09:10:31 ] name 'cMid' is not defined
+[ Minggu, 17 - 06 - 2018 | 09:11:51 ] Upload image failure.
+[ Minggu, 17 - 06 - 2018 | 09:11:55 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 17 - 06 - 2018 | 09:13:18 ] name 'dna3' is not defined
+[ Minggu, 17 - 06 - 2018 | 09:13:29 ] [Errno 103] Software caused connection abort
+[ Minggu, 17 - 06 - 2018 | 11:44:49 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:44:50 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:44:50 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:44:52 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:44:53 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:44:55 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:44:55 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:44:56 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:44:58 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:44:58 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:45:00 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:45:00 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:45:00 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:45:00 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:45:01 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:45:01 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:45:03 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:45:05 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:45:05 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:45:05 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:45:06 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:45:08 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:45:08 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:45:08 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:45:08 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:45:08 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:45:08 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:45:08 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:45:09 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:45:09 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:45:09 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:45:09 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:45:11 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:45:13 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:45:13 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:45:13 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:45:13 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:45:13 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:45:13 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:45:13 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:45:14 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:45:14 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:45:14 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:45:14 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:45:14 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:45:14 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:45:15 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:45:15 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:45:15 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:45:15 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:46:24 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:46:26 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:46:26 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:46:28 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:46:28 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:46:29 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:46:30 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:46:30 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:46:30 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 11:46:30 ] name 'settings' is not defined
+[ Minggu, 17 - 06 - 2018 | 23:48:12 ] ('Connection aborted.', BrokenPipeError(32, 'Broken pipe'))
+[ Senin, 18 - 06 - 2018 | 08:41:54 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 08:43:08 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 08:48:19 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 08:50:13 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 08:50:16 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 08:50:19 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 08:50:26 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 08:50:31 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 08:50:38 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 08:50:42 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 08:50:49 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 08:50:55 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 08:51:03 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 08:51:06 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 09:34:52 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 09:43:22 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 09:44:24 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 09:44:33 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 09:45:30 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 09:45:33 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 09:45:35 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 09:45:38 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 09:45:42 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 09:45:46 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 09:45:51 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 09:45:53 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 09:45:56 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 09:45:58 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 09:46:01 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 09:46:03 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 09:46:06 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 09:46:09 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 09:46:13 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 09:46:16 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 09:46:19 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 09:47:59 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 09:52:01 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 09:53:47 ] TalkException(code=10, reason='You are not related to group: c86b18faa9fd2b2d6340af173eed20615', parameterMap={'2': 'c86b18faa9fd2b2d6340af173eed20615'})
+[ Senin, 18 - 06 - 2018 | 09:53:52 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 09:53:57 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 09:54:01 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 09:54:12 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 09:54:17 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 09:54:20 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 09:54:23 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 09:54:27 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 09:54:33 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 09:54:37 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 09:54:41 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 09:54:45 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 09:54:59 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 09:55:06 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 09:55:17 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 09:55:21 ] TalkException(code=73, reason='Prevented join by ticket: 1462324456, 745647961', parameterMap=None)
+[ Senin, 18 - 06 - 2018 | 09:55:55 ] TalkException(code=5, reason='Ticket not found: MvB611WYhp', parameterMap=None)
+[ Senin, 18 - 06 - 2018 | 09:57:19 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 09:57:22 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 09:57:24 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 09:57:27 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 09:57:32 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 09:57:54 ] TalkException(code=73, reason='Prevented join by ticket: 1462324456, 745647961', parameterMap=None)
+[ Senin, 18 - 06 - 2018 | 09:57:59 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 09:58:01 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 09:58:04 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 09:58:06 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 09:58:10 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 09:58:15 ] TalkException(code=73, reason='Prevented join by ticket: 1462324456, 745647961', parameterMap=None)
+[ Senin, 18 - 06 - 2018 | 10:05:52 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 10:05:58 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 10:24:48 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 10:29:37 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 11:26:23 ] [Errno 103] Software caused connection abort
+[ Senin, 18 - 06 - 2018 | 11:26:56 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 11:33:55 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 11:34:09 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 11:34:18 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 11:34:23 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 11:34:29 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 11:34:33 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 11:34:39 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 11:34:43 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 11:34:49 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 11:34:54 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 11:34:58 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 11:35:04 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 11:35:58 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 11:36:21 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 11:37:24 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 11:38:26 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 11:38:56 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 11:39:34 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 11:39:43 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 11:39:52 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 11:39:58 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 11:40:04 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 11:41:29 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 11:42:20 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 11:42:25 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 11:43:25 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 11:56:28 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 12:08:30 ] TalkException(code=73, reason='Prevented join by ticket: 1462324456, 745647961', parameterMap=None)
+[ Senin, 18 - 06 - 2018 | 12:10:05 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 12:18:00 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 12:22:53 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 12:22:57 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 12:23:00 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 12:23:05 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 12:23:10 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 12:23:13 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 12:23:16 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 12:23:18 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 12:23:21 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 12:23:27 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 12:23:36 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 12:23:40 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 12:23:44 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 12:23:49 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 12:23:53 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 12:23:57 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 12:24:02 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 12:24:05 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 12:24:09 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 12:24:14 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 12:24:17 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 12:24:20 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 12:24:23 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 12:24:27 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 12:24:31 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 12:24:35 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 12:32:15 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 12:32:18 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 12:32:49 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 12:34:09 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 12:35:27 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 12:58:38 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 13:18:23 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Senin, 18 - 06 - 2018 | 13:27:41 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 13:49:42 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 14:09:00 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 14:09:07 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 14:09:13 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 14:09:18 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 14:09:22 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 14:10:37 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 22:07:22 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 22:25:08 ] local variable 'sender' referenced before assignment
+[ Senin, 18 - 06 - 2018 | 22:30:24 ] local variable 'sender' referenced before assignment
+[ Senin, 18 - 06 - 2018 | 22:46:47 ] local variable 'sender' referenced before assignment
+[ Senin, 18 - 06 - 2018 | 22:48:57 ] local variable 'sender' referenced before assignment
+[ Senin, 18 - 06 - 2018 | 22:49:30 ] local variable 'sender' referenced before assignment
+[ Senin, 18 - 06 - 2018 | 22:49:33 ] local variable 'sender' referenced before assignment
+[ Senin, 18 - 06 - 2018 | 22:57:13 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 22:57:23 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 23:11:11 ] local variable 'sender' referenced before assignment
+[ Senin, 18 - 06 - 2018 | 23:16:21 ] local variable 'sender' referenced before assignment
+[ Senin, 18 - 06 - 2018 | 23:22:07 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 23:24:19 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 23:24:44 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 23:25:31 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 23:26:42 ] local variable 'sender' referenced before assignment
+[ Senin, 18 - 06 - 2018 | 23:27:36 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 23:27:55 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 23:33:09 ] Upload image failure.
+[ Senin, 18 - 06 - 2018 | 23:38:35 ] TalkException(code=73, reason='Prevented join by ticket: 1462324456, 467151898', parameterMap=None)
+[ Senin, 18 - 06 - 2018 | 23:39:49 ] [Errno 101] Network is unreachable
+[ Senin, 18 - 06 - 2018 | 23:39:51 ] [Errno 7] No address associated with hostname
+[ Senin, 18 - 06 - 2018 | 23:39:51 ] [Errno 7] No address associated with hostname
+[ Selasa, 19 - 06 - 2018 | 00:44:46 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 01:16:34 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 01:21:50 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 01:22:31 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 03:29:35 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 03:35:25 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 04:44:47 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 06:31:42 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 06:33:36 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 06:44:21 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 06:53:50 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 07:40:05 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 08:27:32 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 08:27:35 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 08:27:38 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 08:27:41 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 08:27:44 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 08:27:46 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 08:27:51 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 08:27:54 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 08:27:57 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 08:35:53 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 09:02:42 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 09:03:18 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 09:56:44 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 09:56:47 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 09:56:51 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 09:56:54 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 09:56:58 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 19 - 06 - 2018 | 09:57:01 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 06:13:44 ] name 'sendMessageWithMentionAndFooter' is not defined
+[ Rabu, 20 - 06 - 2018 | 06:14:02 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 06:26:38 ] name 'sendMessageWithMentionAndFooter' is not defined
+[ Rabu, 20 - 06 - 2018 | 06:32:08 ] name 'sendMessageWithMention' is not defined
+[ Rabu, 20 - 06 - 2018 | 06:38:44 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 06:38:56 ] sendMessageWithMentionAndFooter() missing 2 required positional arguments: 'mid' and 'agent_name'
+[ Rabu, 20 - 06 - 2018 | 06:39:11 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 06:41:55 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 06:45:32 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 06:45:48 ] 'str' object has no attribute 'talk'
+[ Rabu, 20 - 06 - 2018 | 06:45:57 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 06:47:39 ] name 'ueca4120a9d7b0e4a9e7f4f1b1b96a436' is not defined
+[ Rabu, 20 - 06 - 2018 | 06:49:59 ] 'str' object has no attribute 'talk'
+[ Rabu, 20 - 06 - 2018 | 06:51:00 ] sendMessageWithMentionAndFooter() takes 5 positional arguments but 6 were given
+[ Rabu, 20 - 06 - 2018 | 06:51:11 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 06:52:18 ] sendMessageWithMentionAndFooter() takes 5 positional arguments but 6 were given
+[ Rabu, 20 - 06 - 2018 | 06:55:11 ] sendMessageWithMentionAndFooter() missing 1 required positional argument: 'agent_name'
+[ Rabu, 20 - 06 - 2018 | 06:56:30 ] sendMessageWithMentionAndFooter() missing 1 required positional argument: 'agent_name'
+[ Rabu, 20 - 06 - 2018 | 06:57:55 ] sendMessageWithMentionAndFooter() takes 5 positional arguments but 6 were given
+[ Rabu, 20 - 06 - 2018 | 07:06:21 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 07:07:07 ] 'LINE' object has no attribute 'sendMentionFooter'
+[ Rabu, 20 - 06 - 2018 | 07:07:45 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 07:07:49 ] sendMentionFooter() takes from 1 to 3 positional arguments but 5 were given
+[ Rabu, 20 - 06 - 2018 | 07:08:37 ] name 'client' is not defined
+[ Rabu, 20 - 06 - 2018 | 07:11:02 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 07:13:21 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 07:13:33 ] Upload image failure.
+[ Rabu, 20 - 06 - 2018 | 07:17:19 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 07:17:23 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 07:17:47 ] ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ Rabu, 20 - 06 - 2018 | 07:17:53 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 07:19:25 ] Upload image failure.
+[ Rabu, 20 - 06 - 2018 | 07:19:46 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 07:20:11 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 07:20:19 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 07:22:18 ] 'Client' object has no attribute 'recv_sendMessage'
+[ Rabu, 20 - 06 - 2018 | 07:22:30 ] 'Client' object has no attribute 'recv_sendMessage'
+[ Rabu, 20 - 06 - 2018 | 07:22:35 ] 'Client' object has no attribute 'recv_sendMessage'
+[ Rabu, 20 - 06 - 2018 | 12:12:34 ] name 'client' is not defined
+[ Rabu, 20 - 06 - 2018 | 12:12:46 ] name 'client' is not defined
+[ Rabu, 20 - 06 - 2018 | 12:23:47 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 12:24:19 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 12:24:30 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 12:24:40 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 12:24:42 ] name 'sendMessageWithMention' is not defined
+[ Rabu, 20 - 06 - 2018 | 12:24:47 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 12:26:46 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 12:28:17 ] ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[ Rabu, 20 - 06 - 2018 | 12:29:54 ] Upload image failure.
+[ Rabu, 20 - 06 - 2018 | 12:30:04 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 12:30:19 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 12:31:37 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 12:31:49 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 12:32:00 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 12:53:24 ] Invalid mids
+[ Rabu, 20 - 06 - 2018 | 13:05:13 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:06:11 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:08:17 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:08:46 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:09:46 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:12:01 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:12:07 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:12:38 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:15:29 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:15:55 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:15:59 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:16:33 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:17:44 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:22:08 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:22:54 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:23:03 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:23:38 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:24:04 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:25:49 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:27:52 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:28:46 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:29:57 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:31:03 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:31:29 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:31:35 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:32:01 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:37:09 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:38:25 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:38:48 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:41:27 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:41:36 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:44:19 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:44:25 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:45:10 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:46:38 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:47:10 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:47:14 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:47:26 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:48:18 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:48:22 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:48:26 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:50:31 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:52:29 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:53:18 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:53:45 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:56:44 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:58:13 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:58:54 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:59:01 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:59:36 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:59:42 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:59:45 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:59:49 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:59:54 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 13:59:58 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:00:12 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:00:27 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:00:31 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:01:44 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:04:43 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:10:11 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:10:16 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:10:22 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:10:27 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:10:34 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:10:47 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:10:53 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:10:58 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:11:02 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:11:10 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:11:17 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:11:22 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:11:28 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:11:33 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:11:37 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:11:42 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:12:03 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:12:08 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:12:12 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:12:17 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:12:20 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:12:23 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:12:27 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:12:31 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:12:34 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:12:37 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:12:42 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:12:46 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:12:53 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:12:57 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:13:01 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:13:05 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:13:09 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:13:14 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:13:19 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:13:22 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:13:26 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:13:30 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:13:35 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:13:39 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:13:43 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:13:47 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:13:51 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:13:55 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:14:48 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:14:54 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:15:00 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:15:04 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:15:09 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:15:13 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:15:18 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:15:23 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:15:28 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:15:32 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:15:36 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:15:40 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:15:44 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:15:49 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:15:53 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:15:57 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:16:01 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:16:05 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:16:09 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:16:12 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:16:16 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:16:20 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:16:24 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:16:27 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:16:32 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:16:37 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:16:42 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:16:46 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:16:49 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:16:52 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:16:56 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:17:00 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:17:06 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:17:09 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:17:14 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:17:19 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:17:23 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:17:27 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:17:31 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:17:40 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:17:45 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:17:51 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:17:55 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:17:59 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:18:12 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:18:16 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:18:19 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:18:22 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:18:26 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:18:29 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:18:32 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:18:37 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:18:41 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:18:44 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:18:48 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:19:03 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:19:22 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:19:33 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:19:39 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:19:45 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:19:48 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:19:52 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:19:57 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:20:01 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:20:05 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:20:08 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:20:12 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:20:17 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:20:23 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:20:27 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:20:32 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:20:36 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:20:40 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:20:44 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:20:49 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:20:53 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:20:57 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:21:01 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:21:06 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:21:10 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:21:15 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:21:20 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:21:24 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:21:28 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:21:31 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:21:34 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:21:38 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:21:41 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:21:45 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:21:48 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:21:52 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:21:57 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:22:01 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:22:04 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:22:08 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:22:13 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:22:17 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:22:21 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:22:25 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:22:30 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:22:34 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:22:40 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:22:44 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:22:50 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:22:55 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:23:00 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:23:05 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:23:09 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:23:13 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:23:18 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:23:22 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:23:27 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:23:31 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:23:37 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:23:42 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:23:47 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:23:51 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:23:56 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:24:00 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:24:05 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:24:09 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:24:15 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:24:19 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:24:25 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:24:30 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:24:35 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:24:47 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:25:56 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:26:01 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:26:06 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:26:10 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:26:14 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:26:18 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:26:21 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:27:53 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:30:22 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:30:52 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:30:55 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:30:59 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:31:04 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:31:10 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:31:14 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:31:19 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:31:23 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:32:47 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:34:53 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:36:36 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:36:44 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:37:38 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:38:58 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:43:19 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:44:32 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:45:11 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:45:37 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:46:12 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:46:33 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:46:41 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:47:13 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:48:07 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:48:44 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:48:52 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:49:05 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:49:09 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:49:14 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:49:41 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:49:47 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:49:54 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:50:02 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:50:19 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:50:54 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:51:19 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:51:32 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:51:40 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:51:51 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:52:04 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:52:10 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:52:14 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:52:17 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:52:20 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:52:23 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:52:26 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:52:29 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:52:33 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:52:35 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:52:38 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:52:41 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:52:44 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:52:47 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:52:50 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:52:53 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:52:56 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:52:59 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:53:02 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:53:04 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:53:08 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:53:11 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:53:31 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:54:06 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:54:18 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:54:28 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:54:39 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:55:49 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:56:00 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:56:43 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:56:51 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:58:44 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 14:58:49 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 15:00:09 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 15:04:36 ] 'LINE' object has no attribute 'sendMention'
+[ Rabu, 20 - 06 - 2018 | 15:08:16 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 15:08:19 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 15:08:27 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 15:10:42 ] 'LINE' object has no attribute 'sendMention'
+[ Rabu, 20 - 06 - 2018 | 15:11:14 ] 'LINE' object has no attribute 'sendMention'
+[ Rabu, 20 - 06 - 2018 | 15:11:44 ] name 'sendMention' is not defined
+[ Rabu, 20 - 06 - 2018 | 15:15:33 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Rabu, 20 - 06 - 2018 | 15:15:55 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Kamis, 21 - 06 - 2018 | 21:52:38 ] EOF occurred in violation of protocol (_ssl.c:748)
+[ Kamis, 21 - 06 - 2018 | 21:57:30 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Kamis, 21 - 06 - 2018 | 21:59:22 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Kamis, 21 - 06 - 2018 | 22:00:56 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Kamis, 21 - 06 - 2018 | 22:01:01 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Kamis, 21 - 06 - 2018 | 22:01:11 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Kamis, 21 - 06 - 2018 | 22:01:21 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Kamis, 21 - 06 - 2018 | 22:01:26 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Kamis, 21 - 06 - 2018 | 22:01:44 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Kamis, 21 - 06 - 2018 | 22:01:48 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Kamis, 21 - 06 - 2018 | 22:01:52 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Kamis, 21 - 06 - 2018 | 22:01:57 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Kamis, 21 - 06 - 2018 | 22:02:00 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Kamis, 21 - 06 - 2018 | 22:03:15 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Kamis, 21 - 06 - 2018 | 22:03:19 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Kamis, 21 - 06 - 2018 | 22:03:23 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Kamis, 21 - 06 - 2018 | 22:03:28 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Kamis, 21 - 06 - 2018 | 22:03:32 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Kamis, 21 - 06 - 2018 | 22:03:37 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Kamis, 21 - 06 - 2018 | 22:03:42 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Kamis, 21 - 06 - 2018 | 22:03:48 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Kamis, 21 - 06 - 2018 | 22:03:52 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Kamis, 21 - 06 - 2018 | 23:06:23 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Kamis, 21 - 06 - 2018 | 23:06:28 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Kamis, 21 - 06 - 2018 | 23:06:33 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Kamis, 21 - 06 - 2018 | 23:06:37 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Kamis, 21 - 06 - 2018 | 23:06:42 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Kamis, 21 - 06 - 2018 | 23:06:47 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Kamis, 21 - 06 - 2018 | 23:06:52 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Kamis, 21 - 06 - 2018 | 23:06:57 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Kamis, 21 - 06 - 2018 | 23:07:06 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Kamis, 21 - 06 - 2018 | 23:07:11 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Kamis, 21 - 06 - 2018 | 23:07:16 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Kamis, 21 - 06 - 2018 | 23:07:22 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Kamis, 21 - 06 - 2018 | 23:07:28 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Kamis, 21 - 06 - 2018 | 23:07:33 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Kamis, 21 - 06 - 2018 | 23:07:37 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Kamis, 21 - 06 - 2018 | 23:07:42 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Kamis, 21 - 06 - 2018 | 23:09:16 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Kamis, 21 - 06 - 2018 | 23:24:18 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 05:06:21 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 05:06:24 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 05:06:28 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 05:06:31 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 05:06:34 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 05:06:38 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 05:06:40 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 05:06:45 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 05:06:48 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 05:06:51 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 05:06:55 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 05:06:57 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 05:07:00 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 05:07:02 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 05:07:05 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 05:07:07 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 05:07:09 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 05:07:12 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 05:07:14 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 05:07:17 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 05:07:22 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 05:07:25 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 05:07:28 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 05:07:31 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 05:23:22 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 05:31:51 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 06:03:59 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 06:05:44 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 06:08:58 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 06:18:46 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 06:19:28 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 06:24:22 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 06:25:08 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 06:42:58 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 06:43:31 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 06:44:32 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 06:45:40 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 06:51:44 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 06:52:34 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 06:55:12 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 06:56:35 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 06:57:52 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 06:57:56 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 06:58:00 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 06:58:05 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 06:58:09 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 07:19:52 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 07:50:36 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 07:51:57 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 07:53:34 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 07:58:53 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 07:59:03 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 07:59:07 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 07:59:10 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 07:59:13 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 07:59:16 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 07:59:20 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 07:59:24 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 07:59:27 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 08:05:44 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 08:08:26 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 08:08:45 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 08:08:51 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 08:09:10 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 08:09:29 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 08:09:55 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 08:10:16 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 08:10:49 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 08:11:15 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 08:11:38 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 22 - 06 - 2018 | 08:14:46 ] [Errno 103] Software caused connection abort
+[ Jumat, 22 - 06 - 2018 | 08:15:01 ] 
+[ Jumat, 22 - 06 - 2018 | 08:18:23 ] 
+[ Jumat, 22 - 06 - 2018 | 08:25:07 ] 
+[ Jumat, 22 - 06 - 2018 | 08:29:23 ] 
+[ Jumat, 22 - 06 - 2018 | 08:40:14 ] 
+[ Jumat, 22 - 06 - 2018 | 08:46:37 ] 
+[ Jumat, 22 - 06 - 2018 | 08:51:48 ] 
+[ Jumat, 22 - 06 - 2018 | 08:52:35 ] 
+[ Jumat, 22 - 06 - 2018 | 08:52:50 ] 
+[ Jumat, 22 - 06 - 2018 | 09:02:14 ] 
+[ Jumat, 22 - 06 - 2018 | 09:07:11 ] 
+[ Jumat, 22 - 06 - 2018 | 09:15:04 ] 
+[ Jumat, 22 - 06 - 2018 | 09:27:28 ] 
+[ Jumat, 22 - 06 - 2018 | 09:29:13 ] 
+[ Jumat, 22 - 06 - 2018 | 09:29:26 ] 
+[ Jumat, 22 - 06 - 2018 | 09:39:09 ] 
+[ Jumat, 22 - 06 - 2018 | 09:52:39 ] 
+[ Jumat, 22 - 06 - 2018 | 09:55:08 ] 
+[ Jumat, 22 - 06 - 2018 | 10:03:22 ] 
+[ Jumat, 22 - 06 - 2018 | 10:03:22 ] 
+[ Jumat, 22 - 06 - 2018 | 10:03:22 ] 
+[ Jumat, 22 - 06 - 2018 | 10:03:22 ] 
+[ Jumat, 22 - 06 - 2018 | 10:03:22 ] 
+[ Jumat, 22 - 06 - 2018 | 10:03:22 ] 
+[ Jumat, 22 - 06 - 2018 | 11:08:36 ] 
+[ Jumat, 22 - 06 - 2018 | 11:08:36 ] 
+[ Jumat, 22 - 06 - 2018 | 11:08:36 ] 
+[ Jumat, 22 - 06 - 2018 | 11:08:36 ] 
+[ Jumat, 22 - 06 - 2018 | 11:08:36 ] 
+[ Jumat, 22 - 06 - 2018 | 11:08:36 ] 
+[ Jumat, 22 - 06 - 2018 | 11:08:36 ] 
+[ Jumat, 22 - 06 - 2018 | 11:08:36 ] 
+[ Jumat, 22 - 06 - 2018 | 11:08:36 ] 
+[ Jumat, 22 - 06 - 2018 | 11:08:36 ] 
+[ Jumat, 22 - 06 - 2018 | 11:08:36 ] 
+[ Jumat, 22 - 06 - 2018 | 11:08:36 ] 
+[ Jumat, 22 - 06 - 2018 | 11:08:36 ] 
+[ Jumat, 22 - 06 - 2018 | 11:08:36 ] 
+[ Jumat, 22 - 06 - 2018 | 11:08:36 ] 
+[ Jumat, 22 - 06 - 2018 | 11:08:36 ] 
+[ Jumat, 22 - 06 - 2018 | 11:20:24 ] 
+[ Jumat, 22 - 06 - 2018 | 12:01:00 ] 
+[ Jumat, 22 - 06 - 2018 | 12:04:04 ] 
+[ Jumat, 22 - 06 - 2018 | 12:04:05 ] 
+[ Jumat, 22 - 06 - 2018 | 12:04:06 ] 
+[ Jumat, 22 - 06 - 2018 | 12:04:06 ] 
+[ Jumat, 22 - 06 - 2018 | 12:04:07 ] 
+[ Jumat, 22 - 06 - 2018 | 12:04:08 ] 
+[ Jumat, 22 - 06 - 2018 | 12:07:24 ] 
+[ Jumat, 22 - 06 - 2018 | 12:07:24 ] 
+[ Jumat, 22 - 06 - 2018 | 12:07:24 ] 
+[ Jumat, 22 - 06 - 2018 | 12:07:24 ] 
+[ Jumat, 22 - 06 - 2018 | 12:07:26 ] 
+[ Jumat, 22 - 06 - 2018 | 12:07:26 ] 
+[ Jumat, 22 - 06 - 2018 | 12:07:26 ] 
+[ Jumat, 22 - 06 - 2018 | 12:07:30 ] 
+[ Jumat, 22 - 06 - 2018 | 12:08:03 ] 
+[ Jumat, 22 - 06 - 2018 | 12:09:29 ] 
+[ Jumat, 22 - 06 - 2018 | 12:11:02 ] 
+[ Jumat, 22 - 06 - 2018 | 12:11:29 ] 
+[ Jumat, 22 - 06 - 2018 | 12:19:07 ] 
+[ Jumat, 22 - 06 - 2018 | 12:20:07 ] 
+[ Jumat, 22 - 06 - 2018 | 12:20:13 ] 
+[ Jumat, 22 - 06 - 2018 | 12:29:18 ] 
+[ Jumat, 22 - 06 - 2018 | 12:50:43 ] 
+[ Jumat, 22 - 06 - 2018 | 12:53:50 ] 
+[ Jumat, 22 - 06 - 2018 | 12:56:22 ] 
+[ Jumat, 22 - 06 - 2018 | 13:02:19 ] 
+[ Jumat, 22 - 06 - 2018 | 13:02:42 ] 
+[ Jumat, 22 - 06 - 2018 | 13:02:43 ] 
+[ Jumat, 22 - 06 - 2018 | 13:02:44 ] 
+[ Jumat, 22 - 06 - 2018 | 13:02:45 ] 
+[ Jumat, 22 - 06 - 2018 | 13:02:45 ] 
+[ Jumat, 22 - 06 - 2018 | 13:03:07 ] 
+[ Jumat, 22 - 06 - 2018 | 13:05:10 ] 
+[ Jumat, 22 - 06 - 2018 | 13:05:10 ] 
+[ Jumat, 22 - 06 - 2018 | 13:05:10 ] 
+[ Jumat, 22 - 06 - 2018 | 13:05:10 ] 
+[ Jumat, 22 - 06 - 2018 | 13:05:10 ] 
+[ Jumat, 22 - 06 - 2018 | 13:05:17 ] 
+[ Jumat, 22 - 06 - 2018 | 13:05:24 ] 
+[ Jumat, 22 - 06 - 2018 | 13:05:41 ] 
+[ Jumat, 22 - 06 - 2018 | 13:05:45 ] 
+[ Jumat, 22 - 06 - 2018 | 13:05:49 ] 
+[ Jumat, 22 - 06 - 2018 | 13:05:50 ] 
+[ Jumat, 22 - 06 - 2018 | 13:05:51 ] 
+[ Jumat, 22 - 06 - 2018 | 13:06:10 ] 
+[ Jumat, 22 - 06 - 2018 | 13:06:10 ] 
+[ Jumat, 22 - 06 - 2018 | 13:06:14 ] 
+[ Jumat, 22 - 06 - 2018 | 13:06:33 ] 
+[ Jumat, 22 - 06 - 2018 | 13:06:43 ] 
+[ Jumat, 22 - 06 - 2018 | 13:06:49 ] 
+[ Jumat, 22 - 06 - 2018 | 13:07:28 ] 
+[ Jumat, 22 - 06 - 2018 | 13:07:32 ] 
+[ Jumat, 22 - 06 - 2018 | 13:16:11 ] 
+[ Jumat, 22 - 06 - 2018 | 13:16:15 ] 
+[ Sabtu, 23 - 06 - 2018 | 05:32:41 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 15:19:37 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 15:19:52 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 15:20:20 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 15:20:25 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 15:20:47 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 15:24:06 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 15:24:15 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 15:29:34 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 15:31:53 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 15:39:15 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 15:41:11 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 15:43:12 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 15:45:53 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 15:47:02 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 15:47:13 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 15:47:21 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 15:47:27 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 15:47:30 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 15:47:59 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 15:48:02 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 15:49:27 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 15:50:59 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 15:51:51 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 15:52:09 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 15:57:16 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 15:58:07 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:11:01 ] TalkException(code=73, reason='Prevented join by ticket: 1462324456, 700068947', parameterMap=None)
+[ Sabtu, 23 - 06 - 2018 | 16:15:05 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:16:23 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:18:56 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:25:18 ] EOF occurred in violation of protocol (_ssl.c:748)
+[ Sabtu, 23 - 06 - 2018 | 16:30:58 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:31:01 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:31:04 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:31:08 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:31:11 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:31:15 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:31:18 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:31:21 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:31:25 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:31:30 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:31:35 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:31:38 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:31:43 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:31:48 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:31:51 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:31:55 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:31:57 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:32:01 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:32:04 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:32:06 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:32:10 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:32:13 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:32:16 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:32:19 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:32:22 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:32:25 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:32:29 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:32:32 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:32:35 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:32:38 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:32:43 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:32:46 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:32:49 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:32:53 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:32:56 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:32:59 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:33:01 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:33:05 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:33:08 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:33:12 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:33:14 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:33:18 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:33:20 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:33:23 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:33:26 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:33:29 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:33:32 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:33:36 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:33:38 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:33:41 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:33:46 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:33:48 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:33:53 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:33:56 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:34:00 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:34:03 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:34:05 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:34:08 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:34:11 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:34:14 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:34:17 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:34:20 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:34:21 ] TalkException(code=3, reason='no contact: u98f4d7200c826ed3b21e62781189ca59', parameterMap=None)
+[ Sabtu, 23 - 06 - 2018 | 16:34:24 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:34:27 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:34:30 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:34:34 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:34:36 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:34:39 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:34:42 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:34:45 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:34:49 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:34:51 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:34:54 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:34:57 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:35:00 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:35:04 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:35:07 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:35:10 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:35:13 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:35:16 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:35:20 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:35:23 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:35:27 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:35:30 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:35:34 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:35:37 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:35:40 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:35:43 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:35:47 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:35:50 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:35:54 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:35:57 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:36:01 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:36:04 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:36:08 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:36:11 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:36:13 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:36:18 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:36:21 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:36:24 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:36:28 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:36:31 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:36:34 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:36:37 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:36:40 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:36:43 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:36:47 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:36:49 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:36:53 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:36:56 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:36:59 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:37:02 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:37:05 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:37:10 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:37:13 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:37:16 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:37:19 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:37:22 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:37:25 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:37:30 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:37:34 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:37:39 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:37:51 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:38:06 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:38:26 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:38:46 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:39:32 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:40:08 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:43:48 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:43:58 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:44:19 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:44:39 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:45:33 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:45:37 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:45:41 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:49:04 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:51:40 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:57:31 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:57:54 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 16:58:12 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 23:36:48 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 23:36:51 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 23:36:53 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 23:36:56 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 23:36:59 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 23:37:03 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 23:37:05 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 23:37:13 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 23:37:15 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 23:38:19 ] 'bool' object is not callable
+[ Sabtu, 23 - 06 - 2018 | 23:39:50 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 23:39:53 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 23:39:57 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 23:40:00 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 23:40:03 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 23:40:06 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 23:40:09 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 23:40:13 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 23:40:15 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 23:45:26 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 23:45:28 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 23:45:31 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 23:45:33 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 23:45:35 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 23:45:37 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 23:45:40 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 23:45:42 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Sabtu, 23 - 06 - 2018 | 23:45:44 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 24 - 06 - 2018 | 16:26:03 ] TalkException(code=73, reason='Prevented join by ticket: 1477054471, 747163517', parameterMap=None)
+[ Selasa, 26 - 06 - 2018 | 13:44:51 ] name 'dna6' is not defined
+[ Selasa, 26 - 06 - 2018 | 13:45:51 ] 'bool' object is not callable
+[ Selasa, 26 - 06 - 2018 | 13:46:37 ] 'bool' object is not callable
+[ Selasa, 26 - 06 - 2018 | 13:48:40 ] 'bool' object is not callable
+[ Selasa, 31 - 07 - 2018 | 17:51:40 ] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[ Selasa, 31 - 07 - 2018 | 17:54:28 ] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[ Selasa, 31 - 07 - 2018 | 17:56:28 ] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[ Selasa, 31 - 07 - 2018 | 17:58:34 ] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[ Selasa, 31 - 07 - 2018 | 17:59:04 ] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[ Selasa, 31 - 07 - 2018 | 18:01:09 ] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[ Selasa, 31 - 07 - 2018 | 18:01:59 ] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[ Selasa, 31 - 07 - 2018 | 18:11:35 ] local variable 'sender' referenced before assignment
+[ Selasa, 31 - 07 - 2018 | 18:42:46 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 31 - 07 - 2018 | 18:59:57 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 31 - 07 - 2018 | 19:10:12 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Selasa, 31 - 07 - 2018 | 19:18:37 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 03 - 08 - 2018 | 07:30:05 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Jumat, 03 - 08 - 2018 | 07:55:10 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Kamis, 04 - Oktober - 2018 | 20:02:22 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Kamis, 04 - Oktober - 2018 | 20:02:46 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Kamis, 04 - Oktober - 2018 | 20:06:46 ] Error change video and picture profile ('Connection aborted.', BrokenPipeError(32, 'Broken pipe'))
+[ Kamis, 04 - Oktober - 2018 | 20:08:29 ] Error change video and picture profile ('Connection aborted.', BrokenPipeError(32, 'Broken pipe'))
+[ Kamis, 04 - Oktober - 2018 | 20:10:14 ] Error change video and picture profile ('Connection aborted.', BrokenPipeError(32, 'Broken pipe'))
+[ Kamis, 04 - Oktober - 2018 | 20:11:37 ] Error change video and picture profile ('Connection aborted.', BrokenPipeError(32, 'Broken pipe'))
+[ Kamis, 04 - Oktober - 2018 | 20:12:44 ] Error change video and picture profile ('Connection aborted.', BrokenPipeError(32, 'Broken pipe'))
+[ Kamis, 04 - Oktober - 2018 | 20:26:45 ] Error change video and picture profile ('Connection aborted.', BrokenPipeError(32, 'Broken pipe'))
+[ Kamis, 04 - Oktober - 2018 | 20:28:15 ] Error change video and picture profile ('Connection aborted.', BrokenPipeError(32, 'Broken pipe'))
+[ Kamis, 04 - Oktober - 2018 | 20:31:09 ] Error change video and picture profile ('Connection aborted.', BrokenPipeError(32, 'Broken pipe'))
+[ Rabu, 09 - 01 - 2019 | 00:54:58 ] Upload image failure.
+[ Rabu, 09 - 01 - 2019 | 01:27:16 ] TalkException(code=3, reason='no contact: ueca4120a9d7b0e4a9e7f4f1b1b96a436', parameterMap=None)
+[ Rabu, 09 - 01 - 2019 | 01:29:38 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Rabu, 09 - 01 - 2019 | 01:30:29 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Rabu, 09 - 01 - 2019 | 01:30:49 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Rabu, 09 - 01 - 2019 | 01:53:40 ] HTTPConnectionPool(host='leert.corrykalam.gq', port=80): Max retries exceeded with url: /praytime.php?location=surabaya (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0xf3e73cd0>: Failed to establish a new connection: [Errno 7] No address associated with hostname',))
+[ Rabu, 09 - 01 - 2019 | 01:54:02 ] Expecting value: line 1 column 1 (char 0)
+[ Rabu, 09 - 01 - 2019 | 01:54:17 ] Expecting value: line 1 column 1 (char 0)
+[ Rabu, 09 - 01 - 2019 | 01:54:52 ] Expecting value: line 1 column 1 (char 0)
+[ Rabu, 09 - 01 - 2019 | 01:55:29 ] Expecting value: line 1 column 1 (char 0)
+[ Rabu, 09 - 01 - 2019 | 01:56:08 ] HTTPConnectionPool(host='api.ntcorp.us', port=80): Max retries exceeded with url: /joox/search?q=welcome%20to%20my%20life (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0xf3e73d10>: Failed to establish a new connection: [Errno 7] No address associated with hostname',))
+[ Rabu, 09 - 01 - 2019 | 02:33:20 ] Download file failure.
+[ Rabu, 09 - 01 - 2019 | 02:34:40 ] HTTPConnectionPool(host='api.ntcorp.us', port=80): Max retries exceeded with url: /joox/search?q=blink%20182 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0xead40db0>: Failed to establish a new connection: [Errno 7] No address associated with hostname',))
+[ Rabu, 09 - 01 - 2019 | 02:35:26 ] Expecting value: line 1 column 1 (char 0)
+[ Rabu, 09 - 01 - 2019 | 02:36:25 ] HTTPConnectionPool(host='leert.corrykalam.gq', port=80): Max retries exceeded with url: /yt.php?url=https%3A//www.youtube.com/watch%3Fv%3Ds1tAYmMjLdY (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0xead30db0>: Failed to establish a new connection: [Errno 7] No address associated with hostname',))
+[ Rabu, 09 - 01 - 2019 | 02:37:11 ] HTTPConnectionPool(host='leert.corrykalam.gq', port=80): Max retries exceeded with url: /yt.php?url=https%3A//www.youtube.com/watch%3Fv%3Ds1tAYmMjLdY (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0xead40f50>: Failed to establish a new connection: [Errno 7] No address associated with hostname',))
+[ Rabu, 09 - 01 - 2019 | 02:37:26 ] HTTPConnectionPool(host='leert.corrykalam.gq', port=80): Max retries exceeded with url: /yt.php?url=https%3A//www.youtube.com/watch%3Fv%3Ds1tAYmMjLdY (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0xead40ab0>: Failed to establish a new connection: [Errno 7] No address associated with hostname',))
+[ Rabu, 09 - 01 - 2019 | 02:37:37 ] HTTPConnectionPool(host='leert.corrykalam.gq', port=80): Max retries exceeded with url: /yt.php?url=https%3A//www.youtube.com/watch%3Fv%3Ds1tAYmMjLdY (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0xead40e10>: Failed to establish a new connection: [Errno 7] No address associated with hostname',))
+[ Rabu, 09 - 01 - 2019 | 02:54:01 ] [Errno 7] No address associated with hostname
+[ Rabu, 09 - 01 - 2019 | 03:38:35 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Rabu, 09 - 01 - 2019 | 03:48:02 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
