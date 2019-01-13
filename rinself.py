@@ -11,8 +11,8 @@ from humanfriendly import format_timespan, format_size, format_number, format_le
 import time, random, sys, json, codecs, threading, glob, re, string, os, requests, six, ast, pytz, urllib, urllib3, urllib.parse, traceback, atexit, subprocess,html5lib
 
 #ririn = LINE("TOKENMU")
-ririn = LINE("EAIFkaHLR5Z3sDuZITI4.QsIZ0MXwN8b4syWcqqzz5a.lLsfayHD0cIZ5RDUaVxRCHF7ep5882cIo+bwQVNEM2o=")
-#ririn = LINE("EA2PlRvjcvkUlJETFSpb.NIeRDPE7hLtZYua3WkTrgW./BGNlJDI0enTU4qvIc+gnTaQBkfGjsqgTsNmFD2qsyw=")
+#ririn = LINE("EAIFkaHLR5Z3sDuZITI4.QsIZ0MXwN8b4syWcqqzz5a.lLsfayHD0cIZ5RDUaVxRCHF7ep5882cIo+bwQVNEM2o=")
+ririn = LINE("EA2PlRvjcvkUlJETFSpb.NIeRDPE7hLtZYua3WkTrgW./BGNlJDI0enTU4qvIc+gnTaQBkfGjsqgTsNmFD2qsyw=")
 
 ririnMid = ririn.profile.mid
 ririnProfile = ririn.getProfile()
